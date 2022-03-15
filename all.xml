@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/49624</link>
+            <guid>https://www.bookjournalism.com/books/49624</guid>
+            <pubDate>Tue, 15 Mar 2022 15:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[너로 정했다! 제빵왕 피카츄]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[춘식이가 핑크제국을 노린다. 카카오는 어떻게 SM인수전에서 앞섰나? (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/49548</link>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/49300</guid>
             <pubDate>Tue, 15 Mar 2022 13:19:52 GMT</pubDate>
             <content:encoded><![CDATA[택배파업, 우리 삶도 파손주의]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[푸틴는 왜 우크라이나의 동쪽 절반을 노리는가? 푸틴을 어디서 어떻게 저지할 것인가? 우크라이나 전선이 무너지면 푸틴은 어디까지 노릴 것인가? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/49282</link>
-            <guid>https://www.bookjournalism.com/books/49282</guid>
-            <pubDate>Tue, 15 Mar 2022 13:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 라인]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[도심에서 백화점이 사라지고 있다. 그 자리를 무엇으로 메꿔야 할까? 도시가 고민할 차례다. (북저널리즘 ─ 세계)]]></title>
