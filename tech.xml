@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bookjournalism.com/audio</id>
-    <title>북저널리즘 ─ 오디오</title>
-    <updated>2022-03-15T13:20:39.353Z</updated>
+    <id>https://www.bookjournalism.com/books/category/28926</id>
+    <title>북저널리즘 ─ 테크</title>
+    <updated>2022-03-15T13:20:39.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
 </feed>
