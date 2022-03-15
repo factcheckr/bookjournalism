@@ -23,12 +23,12 @@ onFail = "stale"
 [tech]
 title = "북저널리즘 ─ 테크"
 url = "https://www.bookjournalism.com/books/category/28926"
-entrySelector = "div.item"
-titleSelector = "span.summary"
-linkSelector = "a.link-inner"
-contentSelector = "span.post-title"
+entrySelector = "div.contents-list.thumb-.style-list div.items div.item"
+titleSelector = "div.info div.middle-outer div.middle-inner a.link-inner span.summary"
+linkSelector = "div.info div.middle-outer div.middle-inner a.link-inner"
+contentSelector = "span.headline span.post-title"
 imageSelector = "span.cover"
-waitForSelector = "div.item"
+waitForSelector = "div.items div.item"
 onFail = "stale"
 
 [culture]
