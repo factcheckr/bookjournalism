@@ -8,6 +8,36 @@ contentSelector = "span.post-title"
 imageSelector = "span.cover"
 waitUntil = "networkidle"
 
+[world]
+title = "북저널리즘 ─ 세계"
+url = "https://www.bookjournalism.com/books/category/28927"
+entrySelector = "div.item"
+titleSelector = "span.summary"
+linkSelector = "a.link-inner"
+contentSelector = "span.post-title"
+imageSelector = "span.cover"
+waitUntil = "networkidle"
+
+[tech]
+title = "북저널리즘 ─ 테크"
+url = "https://www.bookjournalism.com/books/category/28926"
+entrySelector = "div.item"
+titleSelector = "span.summary"
+linkSelector = "a.link-inner"
+contentSelector = "span.post-title"
+imageSelector = "span.cover"
+waitUntil = "networkidle"
+
+[culture]
+title = "북저널리즘 ─ 컬처"
+url = "https://www.bookjournalism.com/books/category/34"
+entrySelector = "div.item"
+titleSelector = "span.summary"
+linkSelector = "a.link-inner"
+contentSelector = "span.post-title"
+imageSelector = "span.cover"
+waitUntil = "networkidle"
+
 [audio]
 title = "북저널리즘 ─ 오디오"
 url = "https://www.bookjournalism.com/audio"
