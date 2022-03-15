@@ -1,5 +1,5 @@
 [books]
-title = "북저널리즘"
+title = "북저널리즘 ─ 전체"
 url = "https://www.bookjournalism.com/books"
 entrySelector = "div.item"
 titleSelector = "span.summary"
@@ -9,8 +9,8 @@ imageSelector = "span.cover"
 waitUntil = "networkidle"
 
 [audio]
-title = "북저널리즘"
-url = "https://www.bookjournalism.com/books"
+title = "북저널리즘 ─ 오디오"
+url = "https://www.bookjournalism.com/audio"
 entrySelector = "div.item"
 titleSelector = "span.summary"
 linkSelector = "a.link-inner"
