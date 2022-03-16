@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-03-16T15:13:36.756Z</updated>
+    <updated>2022-03-16T16:15:56.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나?]]></title>
+        <id>https://www.bookjournalism.com/books/49671</id>
+        <link href="https://www.bookjournalism.com/books/49671"/>
+        <updated>2022-03-16T16:15:43.370Z</updated>
+        <content type="html"><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16년 만에 돌아온 포켓몬빵이 빵터졌다. 띠부씰의 혁신은 무엇인가?]]></title>
         <id>https://www.bookjournalism.com/books/49624</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/49348"/>
         <updated>2022-03-15T13:19:52.880Z</updated>
         <content type="html"><![CDATA[악마의 유혹]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택배 파업이 두 달 넘게 이어진 끝에 마무리 되었다. 21세기에 벌어진 20세기 노동쟁의였다.]]></title>
-        <id>https://www.bookjournalism.com/books/49300</id>
-        <link href="https://www.bookjournalism.com/books/49300"/>
-        <updated>2022-03-15T13:19:52.882Z</updated>
-        <content type="html"><![CDATA[택배파업, 우리 삶도 파손주의]]></content>
     </entry>
 </feed>
