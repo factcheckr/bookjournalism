@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,43 @@
             <content:encoded><![CDATA[백화점 멸종의 시대]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[야놀자는 코로나 이후 여행업계를 장악할 수 있을까 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/155</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/155</guid>
+            <pubDate>Fri, 25 Mar 2022 08:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_74/1648195587797I1VHy_JPEG/textradio0325.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대출규제 완화 시그널, 잔치의 시간인가, 폭탄의 시간인가 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/154</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/154</guid>
+            <pubDate>Fri, 25 Mar 2022 08:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_142/16481954944482j7CP_JPEG/textradio0325.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠팡 새벽배송이 드러낸 지역격차의 민낯 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/153</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/153</guid>
+            <pubDate>Fri, 25 Mar 2022 08:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_95/1648195194678kgG9l_JPEG/textradio0325.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무엇이 MZ세대를 빚쟁이로 만들었나 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/152</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/152</guid>
+            <pubDate>Fri, 25 Mar 2022 08:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220325_214/1648195036271Oh5vk_JPEG/textradio0325.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[북저널라디오] 3월 3주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/151</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/151</guid>
             <pubDate>Fri, 18 Mar 2022 11:11:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_100/1647598827082KQjhF_JPEG/222r220318.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제빵왕 피카츄가 증명한 스토리 마케팅의 위력 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +136,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/150</guid>
             <pubDate>Fri, 18 Mar 2022 11:11:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_271/1647598541017wYktK_JPEG/222r220318.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷플릭스 계정공유 금지, 콘텐츠 구독 시장의 향방은? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/149</guid>
             <pubDate>Fri, 18 Mar 2022 11:11:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_7/16475984110529nmVM_JPEG/222r220318.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오는 SM엔터를 손에 넣고 라춘댄스를 출 수 있을까 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/148</guid>
             <pubDate>Fri, 18 Mar 2022 11:11:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220318_293/1647598040111to9xR_JPEG/222r220318.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 3월 2주 ; 20대 대통령 윤석열 당선 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -136,34 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/146</guid>
             <pubDate>Tue, 15 Mar 2022 13:05:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 3월 1주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/145</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/145</guid>
-            <pubDate>Tue, 15 Mar 2022 13:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>80분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[푸틴은 지금 가장 예측 불가능한 행위자다. 그는 어디까지 갈 것인가. (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/144</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/144</guid>
-            <pubDate>Tue, 15 Mar 2022 13:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안철수는 단일화를 선택했다. 이유와 여파는 무엇인가. (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/143</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/143</guid>
-            <pubDate>Tue, 15 Mar 2022 13:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷플릭스 <소년심판>이 화제다. 촉법소년 문제, 본질은 무엇인가. (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/142</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/142</guid>
-            <pubDate>Tue, 15 Mar 2022 13:05:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
 </rss>
