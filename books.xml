@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-03-31T05:12:22.869Z</updated>
+    <updated>2022-03-31T06:15:05.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[대기업이 중고차 시장에 뛰어든다. 오토 금융도 요동친다. MZ의 선택은 어디로 향할까?]]></title>
+        <id>https://www.bookjournalism.com/books/49889</id>
+        <link href="https://www.bookjournalism.com/books/49889"/>
+        <updated>2022-03-31T06:14:51.087Z</updated>
+        <content type="html"><![CDATA[오토론 대전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50조를 들여 소상공인·자영업자를 돕는다고 모든 문제가 해결되는 것은 아니다. 이들에 대한 인식 변화 없이는 우리 경제의 미래가 불투명하다.]]></title>
         <id>https://www.bookjournalism.com/books/49865</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/49573"/>
         <updated>2022-03-18T02:17:53.664Z</updated>
         <content type="html"><![CDATA[비욘드 핸디캡]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대는 역사상 가장 가난한 세대다. 무엇이 이들을 부채로 내몰았나?]]></title>
-        <id>https://www.bookjournalism.com/books/49671</id>
-        <link href="https://www.bookjournalism.com/books/49671"/>
-        <updated>2022-03-16T16:15:43.370Z</updated>
-        <content type="html"><![CDATA[빚쟁이가 되어버린 MZ를 아시오?]]></content>
     </entry>
 </feed>
