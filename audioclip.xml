@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[북저널라디오] 4월 1주 ; 전체듣기]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/165</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/165</guid>
+            <pubDate>Fri, 08 Apr 2022 10:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220408_212/1649407139537hdDch_JPEG/textradio0408.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 정부에선 집 살 수 있나? / 일론 머스크가 트위터 대주주가 되었다]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/164</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/161</guid>
             <pubDate>Fri, 08 Apr 2022 06:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>33분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220408_230/1649393632962Ayged_JPEG/bt_253_talksradio.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 3월 5주 ; 전체듣기]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/156</guid>
             <pubDate>Fri, 25 Mar 2022 09:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[야놀자는 코로나 이후 여행업계를 장악할 수 있을까]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/155</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/155</guid>
-            <pubDate>Fri, 25 Mar 2022 08:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
