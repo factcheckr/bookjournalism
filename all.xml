@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 18:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일상이다. 주류업계는 리오프닝을 꿈꾸고 전국의 부장님들은 회식을 꿈꾸지만, 지난 2년 동안 주류 소비의 트렌드는 급격히 변화했다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/50312</link>
+            <guid>https://www.bookjournalism.com/books/50312</guid>
+            <pubDate>Tue, 19 Apr 2022 18:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[소맥의 시대는 끝났다]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[코로나19로 임시 허용됐던 비대면 진료의 합법화가 검토 중이다. 팬데믹은 사실상 끝났으나, 비대면 진료는 이제 시작이다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/50255</link>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/50015</guid>
             <pubDate>Thu, 07 Apr 2022 19:10:04 GMT</pubDate>
             <content:encoded><![CDATA[빅테크의 노동권]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[일론 머스크가 트위터 최대 주주가 되었다. 트위터의 미래에는 어떤 변화가 예고되어 있는가. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/50002</link>
-            <guid>https://www.bookjournalism.com/books/50002</guid>
-            <pubDate>Thu, 07 Apr 2022 05:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[플랫폼이 필요해서 트위터 좀 샀어]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 4월 2주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
