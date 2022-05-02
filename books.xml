@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-05-02T14:13:08.641Z</updated>
+    <updated>2022-05-02T15:13:54.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[에듀테크 앱 ‘콴다’의 글로벌 가입자 수가 6000만 명을 돌파했다. 인공지능은 교육 격차를 해결할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/50623</id>
+        <link href="https://www.bookjournalism.com/books/50623"/>
+        <updated>2022-05-02T15:13:40.893Z</updated>
+        <content type="html"><![CDATA[사교육 아닌 사교육]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 첫째 주 - 문재인 대통령은 광장이 탄생시켰습니다. 광장의 5년이었습니다.]]></title>
         <id>https://www.bookjournalism.com/books/50609</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/50438"/>
         <updated>2022-04-21T05:32:58.941Z</updated>
         <content type="html"><![CDATA[소셜 미디어의 조건]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의류 브랜드 GAP은 시대를 풍미했지만, 몰락의 길을 걷고 있다. 카니예 웨스트와의 콜라보는 부활의 열쇠가 될 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/50420</id>
-        <link href="https://www.bookjournalism.com/books/50420"/>
-        <updated>2022-04-20T15:13:54.885Z</updated>
-        <content type="html"><![CDATA[GAP의 몰락]]></content>
     </entry>
 </feed>
