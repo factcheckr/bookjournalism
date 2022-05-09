@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-05-09T14:12:38.324Z</updated>
+    <updated>2022-05-09T15:13:35.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 미술 시장이 MZ세대를 중심으로 재편된다. 이 흐름은 지속가능할까?]]></title>
+        <id>https://www.bookjournalism.com/books/50759</id>
+        <link href="https://www.bookjournalism.com/books/50759"/>
+        <updated>2022-05-09T15:13:22.156Z</updated>
+        <content type="html"><![CDATA[미술품 사면 기분이 좋거든요]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 둘째 주 - 사람은 먹는 존재입니다. 먹어서 사람도 살리고 전쟁도 막을 수 있는, 그런 존재 말입니다.]]></title>
         <id>https://www.bookjournalism.com/books/50740</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/50578"/>
         <updated>2022-04-27T16:17:10.362Z</updated>
         <content type="html"><![CDATA[토종 OTT 살리기 프로젝트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국과 중국이라는 초강대국들이 서로를 향해 돌진하고 있다. 비극을 막기 위한 방법론이 필요하다.]]></title>
-        <id>https://www.bookjournalism.com/books/50569</id>
-        <link href="https://www.bookjournalism.com/books/50569"/>
-        <updated>2022-04-27T16:17:10.362Z</updated>
-        <content type="html"><![CDATA[미·중 전쟁을 막아라]]></content>
     </entry>
 </feed>
