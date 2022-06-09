@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-06-09T11:12:02.445Z</updated>
+    <updated>2022-06-09T12:25:04.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가.]]></title>
+        <id>https://www.bookjournalism.com/books/51448</id>
+        <link href="https://www.bookjournalism.com/books/51448"/>
+        <updated>2022-06-09T12:24:50.033Z</updated>
+        <content type="html"><![CDATA[보안이라는 사치]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가?]]></title>
         <id>https://www.bookjournalism.com/books/51468</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51102"/>
         <updated>2022-06-05T03:07:53.328Z</updated>
         <content type="html"><![CDATA[잡지의 탄생]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다.]]></title>
-        <id>https://www.bookjournalism.com/books/50880</id>
-        <link href="https://www.bookjournalism.com/books/50880"/>
-        <updated>2022-06-05T03:07:53.329Z</updated>
-        <content type="html"><![CDATA[인류세 시나리오]]></content>
     </entry>
 </feed>

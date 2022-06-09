@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 11:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 12:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀리의 서재에서 해킹으로 인해 개인 정보가 유출됐다. 스타트업에게 사이버 보안은 사치인가 필수인가. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/51448</link>
+            <guid>https://www.bookjournalism.com/books/51448</guid>
+            <pubDate>Thu, 09 Jun 2022 12:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안이라는 사치]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[고대 이집트의 큐빗(cubit) 단위에서부터 현대의 건강 추적 앱에 이르기까지 인류는 수많은 방식들을 활용하여 세계와 우리 자신을 측정해왔다. 이러한 측정은 우리에게 어떤 의미인가? (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/51468</link>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/51102</guid>
             <pubDate>Sun, 05 Jun 2022 03:07:53 GMT</pubDate>
             <content:encoded><![CDATA[잡지의 탄생]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인류는 새로운 시대에 서 있다. 지구와의 관계를 재설정하는 내러티브가 필요하다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/50880</link>
-            <guid>https://www.bookjournalism.com/books/50880</guid>
-            <pubDate>Sun, 05 Jun 2022 03:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[인류세 시나리오]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[북토크] 저자 직강! 기본소득이 내얘기야?; 《기본소득 101》 김찬휘 저자 (오디오클립 ─ 북저널리즘 라디오)]]></title>
