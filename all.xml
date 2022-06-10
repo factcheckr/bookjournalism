@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 09:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,43 @@
             <content:encoded><![CDATA[그 공포를 설명할 방법이 없다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김초엽이 쓰는 OTT용 소설; 스트리밍 세대를 위한 소설 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/208</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/208</guid>
+            <pubDate>Fri, 10 Jun 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220610_47/1654849948551idXps_PNG/f2206104.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[북한은 핵보유국을 꿈꾼다; 별의 순간이 왔다, 북한에 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/207</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/207</guid>
+            <pubDate>Fri, 10 Jun 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220610_56/16548497956184pYCj_PNG/f220608.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[내 개인정보, 이미 공공재?; 보안이라는 사치 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/206</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/206</guid>
+            <pubDate>Fri, 10 Jun 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220610_213/1654849661127ns8VY_JPEG/f220609.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이마트 월계점엔 특별한 것이 있다; 마트, 다녀오셨어요? (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/205</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/205</guid>
+            <pubDate>Fri, 10 Jun 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220610_7/1654849577962xSaLA_JPEG/f220607.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[북토크] 저자 직강! 기본소득이 내얘기야?; 《기본소득 101》 김찬휘 저자 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/204</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/204</guid>
             <pubDate>Sun, 05 Jun 2022 21:12:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220604_289/1654326133077WuS7I_JPEG/d220521.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 6월 1주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +136,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/203</guid>
             <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>55분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220603_280/1654244340797Lbm4b_JPEG/textradio0603.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설탕으로 들어올린 칸 트로피; CJ의 다음 미장센은? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/202</guid>
             <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220603_294/1654244193782a4PeQ_JPEG/textradio0603.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 치료제? 먹는건가?; 기적의 치료제 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/201</guid>
             <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220603_163/1654244064079CelRi_JPEG/textradio0603.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성형 중개소? 뷰티 커뮤니티?; 언니를 만나도, 고민은 계속된다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -136,34 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/199</guid>
             <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 5월 4주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/197</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/197</guid>
-            <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>74분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[샤오미에 라이카라고?; 디카폰의 부활 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/195</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/195</guid>
-            <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조 바이든이 남긴 숙제; 깐부라고? 우리 다 죽어! (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/196</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/196</guid>
-            <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅테크 거품이 터진다?!; 롤러코스터 위의 빅테크 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/194</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/194</guid>
-            <pubDate>Sat, 04 Jun 2022 13:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
         </item>
     </channel>
 </rss>
