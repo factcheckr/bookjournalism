@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-06-16T04:29:26.726Z</updated>
+    <updated>2022-06-16T05:15:25.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[애플TV+가 미국 프로축구리그 경기를 독점 중계한다. 스포츠 콘텐츠는 OTT 레드 오션의 틈새 시장이 될 수 있을까.]]></title>
+        <id>https://www.bookjournalism.com/books/51719</id>
+        <link href="https://www.bookjournalism.com/books/51719"/>
+        <updated>2022-06-16T05:15:11.804Z</updated>
+        <content type="html"><![CDATA[스포츠를 잡아라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해를 거듭할수록 홍수는 더 자주, 더 무참하게 도시를 습격한다. 중국 정부가 새로운 대응 방안을 내놓았다. 과연 성공할 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/51699</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51239"/>
         <updated>2022-06-07T04:22:00.619Z</updated>
         <content type="html"><![CDATA[마트, 다녀오셨어요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 신간《기본소득 101》의 저자인 김찬휘 녹색당 공동대표에게 왜 기본소득이 시대적 의제인지 물었습니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/51241</id>
-        <link href="https://www.bookjournalism.com/audio/51241"/>
-        <updated>2022-06-06T03:49:14.319Z</updated>
-        <content type="html"><![CDATA[스페셜 북토크 ; 기본소득 101]]></content>
     </entry>
 </feed>
