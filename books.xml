@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-06-24T04:34:10.533Z</updated>
+    <updated>2022-06-24T05:18:20.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[새 정부의 첫 번째 부동산 대책이 나왔다. 집값을 잡겠다는 얘기가 아니다.]]></title>
+        <id>https://www.bookjournalism.com/books/51977</id>
+        <link href="https://www.bookjournalism.com/books/51977"/>
+        <updated>2022-06-24T05:18:05.457Z</updated>
+        <content type="html"><![CDATA[나의 집은 어디인가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보건복지부의 배달 앱 ‘덜 짜게’ 계획이 비판 받는다. 짜고 단 음식은 누가 책임질 수 있을까?]]></title>
         <id>https://www.bookjournalism.com/books/51952</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/51656"/>
         <updated>2022-06-13T16:15:24.650Z</updated>
         <content type="html"><![CDATA[분노의 섀도복싱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 셋째 주 - 변화에는 늘 끝맺음이 필요합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/51643</id>
-        <link href="https://www.bookjournalism.com/books/51643"/>
-        <updated>2022-06-12T17:10:42.862Z</updated>
-        <content type="html"><![CDATA[마침표]]></content>
     </entry>
 </feed>
