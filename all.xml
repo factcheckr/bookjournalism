@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 03:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:32:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/52111</guid>
             <pubDate>Wed, 29 Jun 2022 16:35:04 GMT</pubDate>
             <content:encoded><![CDATA[앨범의 홍수]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Fri, 24 Jun 2022 10:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인터넷의 역사를 이야기할 때 구글이나 페이스북, 아마존을 빼놓을 수는 없다. 그러나 인터넷을 가장 먼저 정복한 기업은 이베이였다. (북저널리즘 ─ 전체)]]></title>
@@ -62,13 +69,6 @@
             <guid>https://www.bookjournalism.com/books/51977</guid>
             <pubDate>Fri, 24 Jun 2022 05:18:05 GMT</pubDate>
             <content:encoded><![CDATA[나의 집은 어디인가]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Fri, 24 Jun 2022 10:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보건복지부의 배달 앱 ‘덜 짜게’ 계획이 비판 받는다. 짜고 단 음식은 누가 책임질 수 있을까? (북저널리즘 ─ 전체)]]></title>
