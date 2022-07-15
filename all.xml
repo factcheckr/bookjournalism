@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 03:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 04:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안면 인식 기술을 둘러싼 논란이 끊이지 않는다. 정보가 자본과 권력이 된 시대에서 얼굴은 어떤 문제인가? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/52848</link>
+            <guid>https://www.bookjournalism.com/books/52848</guid>
+            <pubDate>Fri, 15 Jul 2022 04:59:10 GMT</pubDate>
+            <content:encoded><![CDATA[쪼개진 얼굴]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일론 머스크로 대변되는 재벌 인플루언서의 영향력이 커지고 있다. 경제적·문화적 힘을 모두 지닌 그는 무적일까? (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/52782</link>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/52282</guid>
             <pubDate>Wed, 06 Jul 2022 10:14:26 GMT</pubDate>
             <content:encoded><![CDATA[빚투도 리콜이 되나요?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구매력 있는 노년층, A세대가 주목받는다. MZ세대에 이어 유의미한 시장 변화를 이끌 수 있을까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/52244</link>
-            <guid>https://www.bookjournalism.com/books/52244</guid>
-            <pubDate>Mon, 04 Jul 2022 19:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[A세대가 온다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 7월 1주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
