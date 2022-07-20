@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-07-20T13:39:43.934Z</updated>
+    <updated>2022-07-20T14:14:00.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[심판의 역할은 단순히 게임 스코어를 외치는 확성기가 아니다. 신기술은 그 자리를 대체할 수 없다. 심판은 지휘자다.]]></title>
+        <id>https://www.bookjournalism.com/books/53075</id>
+        <link href="https://www.bookjournalism.com/books/53075"/>
+        <updated>2022-07-20T14:13:45.288Z</updated>
+        <content type="html"><![CDATA[윔블던의 심판들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 하이퍼클로바가 텍스트 시장에 주목한다. 노코드 AI는 인간이 말하고 일하는 방식을 어떻게 변화시킬까.]]></title>
         <id>https://www.bookjournalism.com/books/53134</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/52739"/>
         <updated>2022-07-14T05:26:42.826Z</updated>
         <content type="html"><![CDATA[스푼 좀 믿어줘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아베 전 총리가 사망했다. 그의 정치인생 뒤에 숨겨진 종교가 향후 한일 관계를 풀어갈 힌트가 된다.]]></title>
-        <id>https://www.bookjournalism.com/books/52596</id>
-        <link href="https://www.bookjournalism.com/books/52596"/>
-        <updated>2022-07-12T03:54:55.169Z</updated>
-        <content type="html"><![CDATA[아베와 세 가지 종교]]></content>
     </entry>
 </feed>
