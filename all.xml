@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 20:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 21:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수 밖에 없었나. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/53181</link>
+            <guid>https://www.bookjournalism.com/books/53181</guid>
+            <pubDate>Wed, 20 Jul 2022 21:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[유희열의 속사정]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[심판의 역할은 단순히 게임 스코어를 외치는 확성기가 아니다. 신기술은 그 자리를 대체할 수 없다. 심판은 지휘자다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/53075</link>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/52632</guid>
             <pubDate>Thu, 14 Jul 2022 05:26:42 GMT</pubDate>
             <content:encoded><![CDATA[폐허만 남은 런던 올림픽]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스푼라디오 대표의 페이스북 글이 화제다. 스푼의 위기를 이해하려면 클럽하우스를 지워야 한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/52739</link>
-            <guid>https://www.bookjournalism.com/books/52739</guid>
-            <pubDate>Thu, 14 Jul 2022 05:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[스푼 좀 믿어줘]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 7월 2주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
