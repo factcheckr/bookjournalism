@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-07-21T17:17:48.490Z</updated>
+    <updated>2022-07-21T18:16:12.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[카메라 회사들이 DSLR을 포기한다. 사형선고는 이미 내려졌다.]]></title>
+        <id>https://www.bookjournalism.com/books/53213</id>
+        <link href="https://www.bookjournalism.com/books/53213"/>
+        <updated>2022-07-21T18:15:57.307Z</updated>
+        <content type="html"><![CDATA[R.I.P. DSLR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수밖에 없었나.]]></title>
         <id>https://www.bookjournalism.com/books/53181</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/52782"/>
         <updated>2022-07-14T05:26:42.805Z</updated>
         <content type="html"><![CDATA[아무도 그를 막을 수 없다?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보리스 존슨의 런던 올림픽부지 개발은 주민들을 위한 것이 아니었다. 기업과 부자의 배만 불린 자리엔 폐허만 남았다.]]></title>
-        <id>https://www.bookjournalism.com/books/52632</id>
-        <link href="https://www.bookjournalism.com/books/52632"/>
-        <updated>2022-07-14T05:26:42.820Z</updated>
-        <content type="html"><![CDATA[폐허만 남은 런던 올림픽]]></content>
     </entry>
 </feed>
