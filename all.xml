@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/53213</guid>
             <pubDate>Thu, 21 Jul 2022 18:15:57 GMT</pubDate>
             <content:encoded><![CDATA[R.I.P. DSLR]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/50374</link>
+            <guid>https://www.bookjournalism.com/books/50374</guid>
+            <pubDate>Fri, 24 Jun 2022 10:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[표절 논란에 휩싸인 유희열이 결국 스케치북을 덮는다. 그는 왜 그렇게 해명할 수밖에 없었나. (북저널리즘 ─ 전체)]]></title>
@@ -34,13 +41,6 @@
             <guid>https://www.bookjournalism.com/books/53134</guid>
             <pubDate>Wed, 20 Jul 2022 04:35:13 GMT</pubDate>
             <content:encoded><![CDATA[글이 함수가 될 때]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/50374</link>
-            <guid>https://www.bookjournalism.com/books/50374</guid>
-            <pubDate>Fri, 24 Jun 2022 10:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[스포티파이가 음악 퀴즈 게임 허들을 인수했다. 스포티파이의 비즈니스 전략이지만 한국 시장에서는 이미 늦었다. (북저널리즘 ─ 전체)]]></title>
