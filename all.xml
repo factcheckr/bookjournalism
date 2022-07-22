@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,50 @@
             <content:encoded><![CDATA[아무도 그를 막을 수 없다?]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[북저널라디오] 7월 3주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/240</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/240</guid>
+            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_205/1658482470249CMBGt_JPEG/textradio0722.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스케치북을 덮다; 유희열의 속사정 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/239</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/239</guid>
+            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_264/1658482375835R7See_PNG/f220721.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[판사님 AI가 타자를 쳤습니다; 글이 함수가 될 때 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/238</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/238</guid>
+            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_92/1658482191663YgBgq_PNG/f220720.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DSLR의 위기; R.I.P. DSLR (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/237</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/237</guid>
+            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220722_33/165848209076008imA_PNG/f220722.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[스포티파이가 넘어야 할 허들hurdle; 허들Heardle은 이제 제 겁니다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/236</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/236</guid>
+            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[북저널라디오] 7월 2주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/235</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/235</guid>
             <pubDate>Fri, 15 Jul 2022 10:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_258/1657873017965LnCSL_JPEG/textradio0715.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배달업 투쟁기; 배달의 미래는 배달에 없다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/234</guid>
             <pubDate>Fri, 15 Jul 2022 10:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_298/1657872847745u1t6u_PNG/f220711.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오디오 시장의 생존 전략; 스푼 좀 믿어줘 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/233</guid>
             <pubDate>Fri, 15 Jul 2022 10:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_233/1657872741203pvMB5_PNG/f220713.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크의 400억짜리 변덕; 아무도 그를 막을 수 없다? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +157,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/232</guid>
             <pubDate>Fri, 15 Jul 2022 10:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220715_202/1657872648243qfYpD_PNG/f220713_%281%29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[일본 정치의 그림자; 아베와 세 가지 종교 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -129,41 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/231</guid>
             <pubDate>Fri, 15 Jul 2022 10:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 7월 1주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/230</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/230</guid>
-            <pubDate>Fri, 08 Jul 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미니언즈가 된 Z세대; 밈은 나의 무기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/229</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/229</guid>
-            <pubDate>Fri, 08 Jul 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노년층이 아니다 새로운 소비자다; A세대가 온다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/228</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/228</guid>
-            <pubDate>Fri, 08 Jul 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보리스 존슨 영국 총리 사퇴; 쇼는 계속되지 않는다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/227</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/227</guid>
-            <pubDate>Fri, 08 Jul 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[C테크는 우릴 구원할 수 있을까?; 남 일 같은 이야기, 탄소 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/226</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/226</guid>
-            <pubDate>Fri, 08 Jul 2022 09:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
         </item>
     </channel>
 </rss>
