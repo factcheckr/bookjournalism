@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 22:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 23:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ세대론이 '진짜' 문제를 가리는 데 사용되고 있다. MZ세대를 쪼개면 우리 사회의 양극화가 보인다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/53381</link>
+            <guid>https://www.bookjournalism.com/books/53381</guid>
+            <pubDate>Tue, 26 Jul 2022 23:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[MZ라는 쉬운 문법]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[토종 과자 회사들이 사업 전략을 다각화하고 있다. 쏟아지는 먹거리 속에서 과자의 경쟁력은 무엇인가. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/53338</link>
@@ -15,7 +22,7 @@
             <content:encoded><![CDATA[스낵 서바이벌]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/50374</link>
             <guid>https://www.bookjournalism.com/books/50374</guid>
             <pubDate>Fri, 24 Jun 2022 10:13:54 GMT</pubDate>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/53014</guid>
             <pubDate>Tue, 19 Jul 2022 12:24:30 GMT</pubDate>
             <content:encoded><![CDATA[발전이 가린 균형]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #45에선, 배달 서비스의 미래와 스푼라디오의 생존 전략, 일론 머스크의 트위터 인수 계약 파기에 관해 살펴봅니다. 또, 아베 전 총리의 정치 인생을 종교를 통해 들여다봅니다. MC 이현구 에디터와 신아람, 이다혜, 정원진 에디터가 함께했습니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/audio/52890</link>
-            <guid>https://www.bookjournalism.com/audio/52890</guid>
-            <pubDate>Fri, 15 Jul 2022 10:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[서바이벌 CEO, 배달, 스푼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 7월 3주 ; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
