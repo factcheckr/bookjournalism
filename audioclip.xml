@@ -4,16 +4,54 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 11:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 12:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열탕과 냉탕을 오가는 세계, 위스키도 아이돌도 변한다]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/253</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/253</guid>
+            <pubDate>Fri, 05 Aug 2022 12:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_288/1659686920358jBDPq_PNG/r220813.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[위스키Whiskey? 리스키Risky; 위스키의 향기는 ESG하지 않다]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/252</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/252</guid>
+            <pubDate>Fri, 05 Aug 2022 12:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_1/16597002889041WUfi_PNG/f220729.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 유산은 거래 대상이 아닙니다; 선의가 통하는 세상?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/251</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/251</guid>
+            <pubDate>Fri, 05 Aug 2022 12:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_203/1659686466278IqIft_PNG/2.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[전랑과 경찰 사이 한국의 운명은?; 반도체의 기정학개론]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/250</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/250</guid>
+            <pubDate>Fri, 05 Aug 2022 12:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220805_23/1659686390847TtzEB_PNG/3.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌, 친구가 되다; 뉴진스]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/249</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/249</guid>
+            <pubDate>Fri, 05 Aug 2022 12:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[북저널라디오] 7월 4주 ; 전체듣기]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/248</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/248</guid>
             <pubDate>Fri, 29 Jul 2022 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220729_236/1659083778119HqU14_JPEG/textradio_0729.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과자 회사의 무한 경쟁; 스낵 서바이벌]]></title>
@@ -21,7 +59,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/247</guid>
             <pubDate>Fri, 29 Jul 2022 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220729_9/1659083615884OVX0Q_PNG/1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[협업툴의 최강자는 누가 될까; 협업툴 4.0]]></title>
@@ -29,7 +66,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/246</guid>
             <pubDate>Fri, 29 Jul 2022 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220729_117/1659083216295pRoOY_PNG/3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘MZ’가 가린 양극화; MZ라는 쉬운 문법]]></title>
@@ -37,7 +73,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/245</guid>
             <pubDate>Fri, 29 Jul 2022 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220729_226/1659083125386XHGT7_PNG/4.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스타벅스를 둘러싼 논란들; 신세계 유니버스에서 커피 한 잔]]></title>
@@ -45,41 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/244</guid>
             <pubDate>Fri, 29 Jul 2022 10:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 7월 3주 ; 전체듣기]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/240</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/240</guid>
-            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스케치북을 덮다; 유희열의 속사정]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/239</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/239</guid>
-            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[판사님 AI가 타자를 쳤습니다; 글이 함수가 될 때]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/238</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/238</guid>
-            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DSLR의 위기; R.I.P. DSLR]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/237</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/237</guid>
-            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스포티파이가 넘어야 할 허들hurdle; 허들Heardle은 이제 제 겁니다]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/236</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/236</guid>
-            <pubDate>Fri, 22 Jul 2022 10:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
