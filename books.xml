@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-08-11T15:14:27.454Z</updated>
+    <updated>2022-08-11T16:16:29.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 정부가 청년 세대의 연애 기술까지 챙기고 나섰다. 저출산 시대, 정부는 무엇을 할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/53957</id>
+        <link href="https://www.bookjournalism.com/books/53957"/>
+        <updated>2022-08-11T16:16:15.049Z</updated>
+        <content type="html"><![CDATA[연애하고 결혼하고 출산하라...고?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤앤제리스가 이스라엘 사업권을 두고 모회사와 소송전에 돌입했다. 아이스크림 회사는 왜 중동 분쟁에 목소리를 내는가.]]></title>
         <id>https://www.bookjournalism.com/books/53929</id>
@@ -82,12 +89,5 @@
         <link href="https://www.bookjournalism.com/books/53525"/>
         <updated>2022-08-03T14:12:12.657Z</updated>
         <content type="html"><![CDATA[인구도 가불이 되나요]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국은 반도체 ‘칩4 동맹’을 요구하고 있다. 전랑과 경찰 사이 한국은 살아남을 수 있을까?]]></title>
-        <id>https://www.bookjournalism.com/books/53479</id>
-        <link href="https://www.bookjournalism.com/books/53479"/>
-        <updated>2022-08-02T06:15:51.778Z</updated>
-        <content type="html"><![CDATA[반도체의 기정학개론]]></content>
     </entry>
 </feed>
