@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-08-11T10:15:26.832Z</updated>
+    <updated>2022-08-11T11:12:13.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[벤앤제리스가 이스라엘 사업권을 두고 모회사와 소송전에 돌입했다. 아이스크림 회사는 왜 중동 분쟁에 목소리를 내는가.]]></title>
+        <id>https://www.bookjournalism.com/books/53929</id>
+        <link href="https://www.bookjournalism.com/books/53929"/>
+        <updated>2022-08-11T11:11:59.305Z</updated>
+        <content type="html"><![CDATA[액티비즘 2.0]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/50374</id>
+        <link href="https://www.bookjournalism.com/books/50374"/>
+        <updated>2022-06-24T10:13:54.423Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매년 수천 대의 자전거가 버려지고 있다.
 지나치게 풍족한 삶의 그림자이자 공유 경제의 비극이다.]]></title>
@@ -19,13 +33,6 @@
         <link href="https://www.bookjournalism.com/books/53900"/>
         <updated>2022-08-09T15:13:35.720Z</updated>
         <content type="html"><![CDATA[인스타그램은 화이트 큐브의 꿈을 꾸는가?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/50374</id>
-        <link href="https://www.bookjournalism.com/books/50374"/>
-        <updated>2022-06-24T10:13:54.423Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[러시아가 가스관 밸브를 잠근 결과, 유럽이 탈석탄 흐름에서 유턴하고 있다. 에너지는 경제가 아니라 정치다.]]></title>
@@ -82,12 +89,5 @@
         <link href="https://www.bookjournalism.com/books/53479"/>
         <updated>2022-08-02T06:15:51.778Z</updated>
         <content type="html"><![CDATA[반도체의 기정학개론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취향이 사치가 되는 시대다. 위스키도 마찬가지다.]]></title>
-        <id>https://www.bookjournalism.com/books/53435</id>
-        <link href="https://www.bookjournalism.com/books/53435"/>
-        <updated>2022-08-02T06:15:51.783Z</updated>
-        <content type="html"><![CDATA[위스키의 향기는 ESG하지 않다]]></content>
     </entry>
 </feed>
