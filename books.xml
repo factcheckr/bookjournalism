@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-09-02T01:10:08.132Z</updated>
+    <updated>2022-09-02T04:10:53.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[새로 쓰는 양안 관계에서 대만은 주연을 노린다. 시진핑의 중국은 대만을 침공할 것인가?]]></title>
+        <id>https://www.bookjournalism.com/books/54771</id>
+        <link href="https://www.bookjournalism.com/books/54771"/>
+        <updated>2022-09-02T04:10:37.645Z</updated>
+        <content type="html"><![CDATA[양안 관계의 뉴 노멀]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-08-16T10:13:22.838Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문해력 논란이 잊을 만하면 반복되고 있다. 이는 세대 갈등이란 문제를 읽어내지 못한 우리 사회 전체의 문해력 부족을 뜻한다.]]></title>
         <id>https://www.bookjournalism.com/books/54713</id>
@@ -25,13 +39,6 @@
         <link href="https://www.bookjournalism.com/books/54641"/>
         <updated>2022-08-30T20:14:50.563Z</updated>
         <content type="html"><![CDATA[아무도 구해주지 않는다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/54125</id>
-        <link href="https://www.bookjournalism.com/books/54125"/>
-        <updated>2022-08-16T10:13:22.838Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 사막에 미래형 도시 텔로사가 들어선다. 세계 억만장자들은 어떤 유토피아를 꿈꾸나?]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54471"/>
         <updated>2022-08-24T15:13:13.861Z</updated>
         <content type="html"><![CDATA[스트리밍 시대의 영화관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘블루칼라 = 힘들고 불안정한 노가다’라는 공식은 깨졌다. N포세대 청년들은 왜 육체노동을 택했나.]]></title>
-        <id>https://www.bookjournalism.com/books/54216</id>
-        <link href="https://www.bookjournalism.com/books/54216"/>
-        <updated>2022-08-24T15:13:13.861Z</updated>
-        <content type="html"><![CDATA[블루칼라 프리워커]]></content>
     </entry>
 </feed>
