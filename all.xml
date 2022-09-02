@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,50 @@
             <content:encoded><![CDATA[스트리밍 시대의 영화관]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[북저널라디오] 8월 5주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/271</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/271</guid>
+            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_80/1662109927382SJ8XD_PNG/r220902.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[당당치킨은 자본주의로 튀겨진다; 치킨의 맛 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/270</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/270</guid>
+            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_201/1662111679885lKVQd_PNG/f220829.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사막의 신도시, 유토피아를 꿈꾸다; 브레이브 뉴 시티 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/269</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/269</guid>
+            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_266/1662111369213OSqV8_PNG/f220830.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 문해력에 심심한 유감을; 언어의 줄다리기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/268</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/268</guid>
+            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220902_15/1662110867167x5GWA_PNG/f220901.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑과 대만의 불안한 대결; 양안 관계의 뉴 노멀 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/267</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/267</guid>
+            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[북저널라디오] 8월 4주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/266</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/266</guid>
             <pubDate>Fri, 26 Aug 2022 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_237/16615034478637VDRG_JPEG/r220826.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영화관이 사라지고 있다; 스트리밍 시대의 영화관 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/265</guid>
             <pubDate>Fri, 26 Aug 2022 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_165/1661503359567Q1mFp_PNG/r2.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[청와대는 누구의 것인가요?; 청와대의 품격 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/264</guid>
             <pubDate>Fri, 26 Aug 2022 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_105/1661503308537HrBBv_PNG/r1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우주로 간 신냉전; 프로젝트 네임 아르테미스 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +157,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/263</guid>
             <pubDate>Fri, 26 Aug 2022 10:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220826_136/1661502292667Bmkq3_PNG/r3.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 8월 3주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -129,41 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/262</guid>
             <pubDate>Wed, 24 Aug 2022 09:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청년 세대의 SOS; 멍하니 갓생살기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/261</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/261</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후위기를 기후위기라 부르지 못하고; 인플레이션 감축은 거들 뿐 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/260</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/260</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>9분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주택의 최저 임금, 반지하; 반지하 바깥에는 볕이 들까요? (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/259</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/259</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무엇이 이들로 하여금 죽음의 공포를 무릅쓰게 했나; 전쟁을 짊어진 사람들 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/258</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/258</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 8월 2주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/257</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/257</guid>
-            <pubDate>Wed, 24 Aug 2022 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
 </rss>
