@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-09-08T09:15:58.198Z</updated>
+    <updated>2022-09-08T10:15:28.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/54941"/>
         <updated>2022-09-07T17:28:17.644Z</updated>
         <content type="html"><![CDATA[신뢰 종말 시대의 음모론]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-08-16T10:13:22.838Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전쟁은 정치의 문제가 아니라 생사의 문제다. 평범한 삶을 부수고 사랑하는 가족을 앗아간다. 즉, 인간을 무너뜨린다.]]></title>
@@ -25,13 +32,6 @@
         <link href="https://www.bookjournalism.com/books/54882"/>
         <updated>2022-09-07T04:21:05.216Z</updated>
         <content type="html"><![CDATA[빅테크 수난 시대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/54125</id>
-        <link href="https://www.bookjournalism.com/books/54125"/>
-        <updated>2022-08-16T10:13:22.838Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태풍이 빠져나간다. 그러나 기후재난은 더 지독하고 불공정해진다.]]></title>
