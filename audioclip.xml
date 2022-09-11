@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[북토크] 일한 만큼 벌고 계신가요?; 《블루칼라 프리워커》 이현구, 이다혜, 정원진 에디터]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/276</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/276</guid>
+            <pubDate>Sun, 11 Sep 2022 15:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20220908_234/1662634694594Bv4fW_JPEG/eb220818_2.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[북저널라디오] 9월 1주; 전체듣기]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/275</link>
@@ -29,7 +37,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/273</guid>
             <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220908_180/16626256750656b4W6_PNG/f220905.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인스타그램 때리는 유럽; 빅테크 수난 시대]]></title>
@@ -37,7 +44,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/272</guid>
             <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220908_160/1662624423347jM09d_PNG/f220906.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[북저널라디오] 8월 5주; 전체듣기]]></title>
@@ -73,13 +79,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/267</guid>
             <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 8월 4주; 전체듣기]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/266</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/266</guid>
-            <pubDate>Fri, 26 Aug 2022 10:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>49분]]></content:encoded>
         </item>
     </channel>
 </rss>
