@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:26:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/55221</guid>
             <pubDate>Wed, 14 Sep 2022 17:24:02 GMT</pubDate>
             <content:encoded><![CDATA[퇴직과 번아웃 사이]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Tue, 16 Aug 2022 10:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘 ─ 전체)]]></title>
@@ -27,13 +34,6 @@
             <guid>https://www.bookjournalism.com/books/55153</guid>
             <pubDate>Wed, 14 Sep 2022 06:03:12 GMT</pubDate>
             <content:encoded><![CDATA[끝나지 않았다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Tue, 16 Aug 2022 10:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘 ─ 전체)]]></title>
