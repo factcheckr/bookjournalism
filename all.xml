@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 11:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 12:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55259</link>
-            <guid>https://www.bookjournalism.com/books/55259</guid>
-            <pubDate>Fri, 16 Sep 2022 06:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[유에서 무, 무에서 유]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Tue, 16 Aug 2022 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/55259</link>
+            <guid>https://www.bookjournalism.com/books/55259</guid>
+            <pubDate>Fri, 16 Sep 2022 06:02:09 GMT</pubDate>
+            <content:encoded><![CDATA[유에서 무, 무에서 유]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘 ─ 전체)]]></title>
