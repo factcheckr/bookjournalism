@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-09-20T14:25:58.148Z</updated>
+    <updated>2022-09-20T15:15:13.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[제주에서 돌고래에 법적 지위를 인정하자는 논의가 이루어지고 있다. 우리는 과연 비인간을 동등한 지구생활자로 인정할 수 있을까?]]></title>
+        <id>https://www.bookjournalism.com/books/55429</id>
+        <link href="https://www.bookjournalism.com/books/55429"/>
+        <updated>2022-09-20T15:14:58.504Z</updated>
+        <content type="html"><![CDATA[법정에 돌고래를 허하라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블록체인계 역대 최대 규모의 업그레이드가 이뤄졌다. 더머지는 이더리움을 혁신할 수 있을까.]]></title>
         <id>https://www.bookjournalism.com/books/55407</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/54371"/>
         <updated>2022-09-11T18:15:39.726Z</updated>
         <content type="html"><![CDATA[NFT 아트로 읽는 뉴밸류에이션 시대]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #53에선, 태풍 힌남노가 남긴 기후위기에 관한 질문, 인공지능을 닮아가는 인류의 미래, 빅테크 규제 정책 뒤에 숨겨진 미국과 EU사이의 팽팽한 줄다리기에 관해 이야기합니다.]]></title>
-        <id>https://www.bookjournalism.com/audio/54985</id>
-        <link href="https://www.bookjournalism.com/audio/54985"/>
-        <updated>2022-09-09T20:15:08.849Z</updated>
-        <content type="html"><![CDATA[태풍이 남긴 숙제, AI가 내놓은 정답, 빅테크의 벌금]]></content>
     </entry>
 </feed>
