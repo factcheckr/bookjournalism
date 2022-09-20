@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 11:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 12:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,18 +22,18 @@
             <content:encoded><![CDATA[유가랩스, NFT 파워하우스]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55356</link>
-            <guid>https://www.bookjournalism.com/books/55356</guid>
-            <pubDate>Sun, 18 Sep 2022 19:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Tue, 16 Aug 2022 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/55356</link>
+            <guid>https://www.bookjournalism.com/books/55356</guid>
+            <pubDate>Sun, 18 Sep 2022 19:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘 ─ 전체)]]></title>
