@@ -1,169 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 16:19:46 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제주에서 돌고래에 법적 지위를 인정하자는 논의가 이루어지고 있다. 우리는 과연 비인간을 동등한 지구생활자로 인정할 수 있을까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55429</link>
-            <guid>https://www.bookjournalism.com/books/55429</guid>
-            <pubDate>Tue, 20 Sep 2022 15:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[법정에 돌고래를 허하라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블록체인계 역대 최대 규모의 업그레이드가 이뤄졌다. 더머지는 이더리움을 혁신할 수 있을까. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55407</link>
-            <guid>https://www.bookjournalism.com/books/55407</guid>
-            <pubDate>Mon, 19 Sep 2022 23:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[채굴은 끝났다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[거품으로 인식되는 NFT 광풍 속에서 BAYC가 성공적 프로젝트로 안착할 수 있던 이유는 뭘까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54971</link>
-            <guid>https://www.bookjournalism.com/books/54971</guid>
-            <pubDate>Mon, 19 Sep 2022 15:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[유가랩스, NFT 파워하우스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Tue, 16 Aug 2022 10:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55356</link>
-            <guid>https://www.bookjournalism.com/books/55356</guid>
-            <pubDate>Sun, 18 Sep 2022 19:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[더 라스트 크라운]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55259</link>
-            <guid>https://www.bookjournalism.com/books/55259</guid>
-            <pubDate>Fri, 16 Sep 2022 06:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[유에서 무, 무에서 유]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55221</link>
-            <guid>https://www.bookjournalism.com/books/55221</guid>
-            <pubDate>Wed, 14 Sep 2022 17:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[퇴직과 번아웃 사이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55168</link>
-            <guid>https://www.bookjournalism.com/books/55168</guid>
-            <pubDate>Wed, 14 Sep 2022 11:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[친애하는 나의 커피여]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고 이예람 중사 사망 사건을 수사해온 특검이 수사를 마무리했다. 하지만 아직 끝나지 않았다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55153</link>
-            <guid>https://www.bookjournalism.com/books/55153</guid>
-            <pubDate>Wed, 14 Sep 2022 06:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[끝나지 않았다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/55128</link>
-            <guid>https://www.bookjournalism.com/books/55128</guid>
-            <pubDate>Mon, 12 Sep 2022 19:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[플러스 사이즈를 재정의하다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북저널리즘 신간《블루칼라 프리워커》는 어떻게 시작한 책일까요? 이현구·이다혜·정원진 에디터의 편집 비하인드 스토리를 담았습니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/audio/54955</link>
-            <guid>https://www.bookjournalism.com/audio/54955</guid>
-            <pubDate>Sun, 11 Sep 2022 18:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[스페셜 북토크 ; 블루칼라 프리워커]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NFT는 혁신인가 사기인가. 투자자와 컬렉터의 마음을 뒤흔든 NFT 아트의 이상과 현실을 조명한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54371</link>
-            <guid>https://www.bookjournalism.com/books/54371</guid>
-            <pubDate>Sun, 11 Sep 2022 18:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[NFT 아트로 읽는 뉴밸류에이션 시대]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 9월 2주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/280</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/280</guid>
-            <pubDate>Fri, 16 Sep 2022 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>41분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220916_88/1663321557717pKchd_JPEG/r220916.jpg?type=f150_150" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인클루시브 패션; 플러스 사이즈를 재정의하다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/279</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/279</guid>
-            <pubDate>Fri, 16 Sep 2022 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220916_69/16633213634311pbwD_PNG/f220913.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신소재에 뛰어드는 스타트업; 유에서 무, 무에서 유 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/278</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/278</guid>
-            <pubDate>Fri, 16 Sep 2022 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220916_218/1663321103687dluBA_PNG/f220916.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴근 후 카톡 금지; 퇴직과 번아웃 사이 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/277</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/277</guid>
-            <pubDate>Fri, 16 Sep 2022 10:16:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20220916_221/1663319896249XspEm_PNG/f220915.png?type=f150_150" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[북토크] 일한 만큼 벌고 계신가요?; 《블루칼라 프리워커》 이현구, 이다혜, 정원진 에디터 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/276</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/276</guid>
-            <pubDate>Sun, 11 Sep 2022 15:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 9월 1주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/275</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/275</guid>
-            <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불공평한 재난, 기후위기; 3.5퍼센트의 모든 것 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/274</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/274</guid>
-            <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인공지능의 함정; 실험복을 걸친 인공지능 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/273</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/273</guid>
-            <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인스타그램 때리는 유럽; 빅테크 수난 시대 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/272</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/272</guid>
-            <pubDate>Fri, 09 Sep 2022 15:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[북저널라디오] 8월 5주; 전체듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/271</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/271</guid>
-            <pubDate>Fri, 02 Sep 2022 10:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://factcheckr.github.io/bookjournalism/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-09-20T17:25:33.834Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제주에서 돌고래에 법적 지위를 인정하자는 논의가 이루어지고 있다. 우리는 과연 비인간을 동등한 지구생활자로 인정할 수 있을까? (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55429</id>
+        <link href="https://www.bookjournalism.com/books/55429"/>
+        <updated>2022-09-20T15:14:58.504Z</updated>
+        <content type="html"><![CDATA[법정에 돌고래를 허하라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블록체인계 역대 최대 규모의 업그레이드가 이뤄졌다. 더머지는 이더리움을 혁신할 수 있을까. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55407</id>
+        <link href="https://www.bookjournalism.com/books/55407"/>
+        <updated>2022-09-19T23:14:51.545Z</updated>
+        <content type="html"><![CDATA[채굴은 끝났다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거품으로 인식되는 NFT 광풍 속에서 BAYC가 성공적 프로젝트로 안착할 수 있던 이유는 뭘까? (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/54971</id>
+        <link href="https://www.bookjournalism.com/books/54971"/>
+        <updated>2022-09-19T15:15:10.894Z</updated>
+        <content type="html"><![CDATA[유가랩스, NFT 파워하우스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-08-16T10:13:22.838Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘리자베스 2세가 서거하며 영연방이 흔들리고 있다. 대영제국의 잔상도 영면에 들고 있다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55356</id>
+        <link href="https://www.bookjournalism.com/books/55356"/>
+        <updated>2022-09-18T19:11:18.427Z</updated>
+        <content type="html"><![CDATA[더 라스트 크라운]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친환경 소재 스타트업에 투자가 몰리고 있다. 투자 불황기, 돈의 흐름은 무엇을 말하고 있나. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55259</id>
+        <link href="https://www.bookjournalism.com/books/55259"/>
+        <updated>2022-09-16T06:02:09.789Z</updated>
+        <content type="html"><![CDATA[유에서 무, 무에서 유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[근로 시간 외 카톡과 조용한 퇴직이 이슈다. 업무와 삶을 분리할 수 없는 지금, 직장은 무엇을 지향해야 하나? (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55221</id>
+        <link href="https://www.bookjournalism.com/books/55221"/>
+        <updated>2022-09-14T17:24:02.153Z</updated>
+        <content type="html"><![CDATA[퇴직과 번아웃 사이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검은색 액체 한 잔이 현대를 창조했다. 현대의 가장 보편적인 중독, 카페인을 생각한다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55168</id>
+        <link href="https://www.bookjournalism.com/books/55168"/>
+        <updated>2022-09-14T11:12:36.276Z</updated>
+        <content type="html"><![CDATA[친애하는 나의 커피여]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고 이예람 중사 사망 사건을 수사해온 특검이 수사를 마무리했다. 하지만 아직 끝나지 않았다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55153</id>
+        <link href="https://www.bookjournalism.com/books/55153"/>
+        <updated>2022-09-14T06:03:12.763Z</updated>
+        <content type="html"><![CDATA[끝나지 않았다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다양한 체형을 위한 인클루시브 패션이 주목받고 있다. 적은 수요에도 불구하고 이 시장은 성장할 수 있을까? (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55128</id>
+        <link href="https://www.bookjournalism.com/books/55128"/>
+        <updated>2022-09-12T19:12:47.151Z</updated>
+        <content type="html"><![CDATA[플러스 사이즈를 재정의하다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북저널리즘 신간《블루칼라 프리워커》는 어떻게 시작한 책일까요? 이현구·이다혜·정원진 에디터의 편집 비하인드 스토리를 담았습니다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/audio/54955</id>
+        <link href="https://www.bookjournalism.com/audio/54955"/>
+        <updated>2022-09-11T18:15:39.710Z</updated>
+        <content type="html"><![CDATA[스페셜 북토크 ; 블루칼라 프리워커]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT는 혁신인가 사기인가. 투자자와 컬렉터의 마음을 뒤흔든 NFT 아트의 이상과 현실을 조명한다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/54371</id>
+        <link href="https://www.bookjournalism.com/books/54371"/>
+        <updated>2022-09-11T18:15:39.726Z</updated>
+        <content type="html"><![CDATA[NFT 아트로 읽는 뉴밸류에이션 시대]]></content>
+    </entry>
+</feed>
