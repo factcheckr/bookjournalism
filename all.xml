@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bookjournalism/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-27T01:16:21.379Z</updated>
+    <updated>2022-09-27T04:06:09.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중국 이커머스 플랫폼 핀뚸뚸가 알리바바를 잡고 아마존을 노린다. 핀뚸뚸는 후발주자라는 한계를 극복할 수 있을까? (북저널리즘 ─ 전체)]]></title>
@@ -12,18 +12,18 @@
         <content type="html"><![CDATA[이커머스의 차세대 스타]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이키코리아가 리셀과의 전쟁을 선포했다. 리셀은 트렌드인가 트러블메이커인가. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/books/55532</id>
-        <link href="https://www.bookjournalism.com/books/55532"/>
-        <updated>2022-09-25T20:14:14.497Z</updated>
-        <content type="html"><![CDATA[슈독, 리셀을 물어뜯다]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
         <id>https://www.bookjournalism.com/books/54125</id>
         <link href="https://www.bookjournalism.com/books/54125"/>
         <updated>2022-08-16T10:13:22.838Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이키코리아가 리셀과의 전쟁을 선포했다. 리셀은 트렌드인가 트러블메이커인가. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55532</id>
+        <link href="https://www.bookjournalism.com/books/55532"/>
+        <updated>2022-09-25T20:14:14.497Z</updated>
+        <content type="html"><![CDATA[슈독, 리셀을 물어뜯다]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #55에선, 돌고래의 법적 지위 인정, 이더리움 더머지 업데이트의 영향, 죽음 이후의 지구를 생각하는 퇴비장, 엘리자베스 2세 서거 이후의 영연방에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
