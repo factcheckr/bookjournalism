@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bookjournalism/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-08T23:16:31.860Z</updated>
+    <updated>2022-10-09T01:15:09.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한글날을 맞아 맞춤법에 진심인 에디터 세 명이 모였습니다. 맞춤법과 편집에 대한 에디터의 생각을 들어 보세요. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55818</id>
+        <link href="https://www.bookjournalism.com/books/55818"/>
+        <updated>2022-10-09T01:14:59.529Z</updated>
+        <content type="html"><![CDATA[스페셜 토크 ; 북저널리즘 에디터의 교정교열 한풀이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #57에선, 외국인 육아 도우미 제도와 관련된 돌봄의 문제, 중국 경제가 휘청이는 이유, 전기요금 인상과 한전의 적자, 포르쉐의 독일 증시 상장에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
         <id>https://www.bookjournalism.com/audio/55805</id>
@@ -80,12 +87,5 @@
         <link href="https://www.bookjournalism.com/books/55620"/>
         <updated>2022-09-29T10:16:16.818Z</updated>
         <content type="html"><![CDATA[우파의 뉴 노멀]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 지금 찰스 3세의 영국을 생각한다. 그러나 영국은 이미 오래전부터 그 청사진을 그려보고 있었다. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/books/55552</id>
-        <link href="https://www.bookjournalism.com/books/55552"/>
-        <updated>2022-09-29T10:16:16.820Z</updated>
-        <content type="html"><![CDATA[2014년, 찰스 3세의 멋진 하루]]></content>
     </entry>
 </feed>
