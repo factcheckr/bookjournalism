@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-10T07:34:07.536Z</updated>
+    <updated>2022-10-10T08:24:28.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
         <title type="html"><![CDATA[한글날을 맞아 맞춤법에 진심인 에디터 세 명이 모였습니다. 맞춤법과 편집에 대한 에디터의 생각을 들어 보세요.]]></title>
-        <id>https://www.bookjournalism.com/books/55818</id>
-        <link href="https://www.bookjournalism.com/books/55818"/>
-        <updated>2022-10-09T01:14:59.529Z</updated>
+        <id>https://www.bookjournalism.com/audio/55818</id>
+        <link href="https://www.bookjournalism.com/audio/55818"/>
+        <updated>2022-10-10T08:24:16.726Z</updated>
         <content type="html"><![CDATA[스페셜 토크 ; 북저널리즘 에디터의 교정교열 한풀이]]></content>
     </entry>
     <entry>
