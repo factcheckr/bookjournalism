@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-10T21:14:57.529Z</updated>
+    <updated>2022-10-10T22:16:10.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[노이즈 캔슬링 헤드폰으로 백색소음을 듣는 시대다. 가상과 현실을 잇는 콘텐츠에 필요한 건 어떤 소리일까?]]></title>
+        <id>https://www.bookjournalism.com/books/55823</id>
+        <link href="https://www.bookjournalism.com/books/55823"/>
+        <updated>2022-10-10T22:15:59.685Z</updated>
+        <content type="html"><![CDATA[다시, 감각으로]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한글날을 맞아 맞춤법에 진심인 에디터 세 명이 모였습니다. 맞춤법과 편집에 대한 에디터의 생각을 들어 보세요.]]></title>
         <id>https://www.bookjournalism.com/audio/55818</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/55633"/>
         <updated>2022-09-30T04:28:56.038Z</updated>
         <content type="html"><![CDATA[월계수 잎이 된 소셜 미디어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 정치 무대의 여성 리더십이 달라지고 있다. 유럽의 이목을 집중시킨 이들은 지금, 우파 포퓰리즘의 새로운 얼굴이다.]]></title>
-        <id>https://www.bookjournalism.com/books/55620</id>
-        <link href="https://www.bookjournalism.com/books/55620"/>
-        <updated>2022-09-29T10:16:16.818Z</updated>
-        <content type="html"><![CDATA[우파의 뉴 노멀]]></content>
     </entry>
 </feed>
