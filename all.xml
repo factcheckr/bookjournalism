@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bookjournalism/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-12T21:15:40.177Z</updated>
+    <updated>2022-10-12T22:15:07.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[공부하면 신용 한도를 늘려준다는 스타트업이 나타났다. 허황된 이야기 같지만, 지극히 현실적인 아이디어다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55902</id>
+        <link href="https://www.bookjournalism.com/books/55902"/>
+        <updated>2022-10-12T22:14:57.818Z</updated>
+        <content type="html"><![CDATA[부자 아빠가 필요해]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 게으름과 이기심이 배변을 비극으로 전락시킨다. 현대인은 지금 제대로 똥 싸는 법을 고민해야 한다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/55882</id>
+        <link href="https://www.bookjournalism.com/books/55882"/>
+        <updated>2022-10-12T22:14:57.819Z</updated>
+        <content type="html"><![CDATA[비움은 사랑이다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 여성의 죽음으로 촉발된 이란의 히잡 거부 시위가 반정부 시위로 번지고 있다. 이 시위의 의미와 여파는 거대하다. (북저널리즘 ─ 전체)]]></title>
         <id>https://www.bookjournalism.com/books/55874</id>
@@ -73,19 +87,5 @@
         <link href="https://www.bookjournalism.com/books/55692"/>
         <updated>2022-10-04T08:21:10.264Z</updated>
         <content type="html"><![CDATA[제로백의 시대를 넘어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸틴의 동원령으로 우크라이나 전쟁은 장기화 조짐을 보인다. 우크라이나 전쟁을 보는 새로운 틀을 말한다. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/audio/55672</id>
-        <link href="https://www.bookjournalism.com/audio/55672"/>
-        <updated>2022-10-02T16:18:40.200Z</updated>
-        <content type="html"><![CDATA[다시 격돌, 우크라이나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #56에선, 쌀값을 둘러싼 복잡한 현실, 나이키와 리셀 시장, 차세데 이커머스 플랫폼 핀뚸뚸, 텀블러의 콘텐츠 규제에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/audio/55652</id>
-        <link href="https://www.bookjournalism.com/audio/55652"/>
-        <updated>2022-10-01T04:24:59.219Z</updated>
-        <content type="html"><![CDATA[핀뚸뚸와 규제는 성장, 리셀과 쌀값은 추락]]></content>
     </entry>
 </feed>
