@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-16T21:14:28.353Z</updated>
+    <updated>2022-10-16T22:14:43.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
+    <entry>
+        <title type="html"><![CDATA[사실상 시진핑 3연임의 대관식인 제20차 공산당 당대회가 개막했다. 시진핑이 꿈꾸는 중국의 미래는 무엇인가.]]></title>
+        <id>https://www.bookjournalism.com/books/55993</id>
+        <link href="https://www.bookjournalism.com/books/55993"/>
+        <updated>2022-10-16T22:14:33.979Z</updated>
+        <content type="html"><![CDATA[시진핑, 시진핑, 시진핑]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #58에선, 현대인의 금융 문해력, 이란의 히잡 거부 시위, 성 소수자 전문 의료 서비스의 출발, 최근 새로운 대세가 된 음향 기술 시장에 관해 이야기합니다.]]></title>
         <id>https://www.bookjournalism.com/audio/55972</id>
@@ -81,12 +88,5 @@
         <link href="https://www.bookjournalism.com/books/55750"/>
         <updated>2022-10-05T16:39:39.138Z</updated>
         <content type="html"><![CDATA[불을 끌 시간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 국가의 국민으로 살아간다는 것은 현대 사회에서 당연한 운명처럼 여겨진다. 그러나 누군가에게는 이방인이라는 꼬리표가 잔인한 운명이다.]]></title>
-        <id>https://www.bookjournalism.com/books/55739</id>
-        <link href="https://www.bookjournalism.com/books/55739"/>
-        <updated>2022-10-05T11:13:51.512Z</updated>
-        <content type="html"><![CDATA[나의 집은 어디인가]]></content>
     </entry>
 </feed>
