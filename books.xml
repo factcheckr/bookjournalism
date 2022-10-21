@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-21T08:21:16.958Z</updated>
+    <updated>2022-10-21T09:21:47.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/56183"/>
         <updated>2022-10-20T18:31:20.917Z</updated>
         <content type="html"><![CDATA[밀크 서바이벌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-09-29T10:16:16.819Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금의 게임은 전략적 콘텐츠다. 인디 게임의 매력은 미래 게임의 표준이 될까?]]></title>
@@ -25,13 +32,6 @@
         <link href="https://www.bookjournalism.com/books/55836"/>
         <updated>2022-10-20T18:31:20.921Z</updated>
         <content type="html"><![CDATA[그린워싱 주의보]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/54125</id>
-        <link href="https://www.bookjournalism.com/books/54125"/>
-        <updated>2022-09-29T10:16:16.819Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마음에 찾아오는 병도 적절한 방법으로 치료해야 한다는 것은 이제 상식이 되었다. 그런데 그 적절한 치료 방법이란 무엇일까?]]></title>
