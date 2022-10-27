@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-27T15:14:14.900Z</updated>
+    <updated>2022-10-27T16:19:27.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.bookjournalism.com/books/56289</id>
         <link href="https://www.bookjournalism.com/books/56289"/>
         <updated>2022-10-27T15:14:04.119Z</updated>
-        <content type="html"><![CDATA[달러, 위안화, 뭘로 하시겠어요?]]></content>
+        <content type="html"><![CDATA[달러, 위안화... 뭘로 하시겠어요?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울시의 랜드마크 실험은 진행 중이다. 이번엔 도심 속 2000킬로미터의 녹지 공간을 조성한다.]]></title>
