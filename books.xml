@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bookjournalism.com/books</id>
     <title>북저널리즘 ─ 전체</title>
-    <updated>2022-10-27T04:43:22.551Z</updated>
+    <updated>2022-10-27T05:23:53.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bookjournalism.com/img/favicon.png?mtime=1592277068</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.bookjournalism.com/books/56263"/>
         <updated>2022-10-26T15:14:51.236Z</updated>
         <content type="html"><![CDATA[서울의 꿈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
+        <id>https://www.bookjournalism.com/books/54125</id>
+        <link href="https://www.bookjournalism.com/books/54125"/>
+        <updated>2022-09-29T10:16:16.819Z</updated>
+        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미디어의 시대, 퍼블리시티권은 유명세를 돈으로 번역해 내는 일반적인 방법이 되었다. 아인슈타인의 경우도 마찬가지다.]]></title>
@@ -25,13 +32,6 @@
         <link href="https://www.bookjournalism.com/books/56251"/>
         <updated>2022-10-25T15:20:25.204Z</updated>
         <content type="html"><![CDATA[공공재로서의 미디어, 위키백과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다.]]></title>
-        <id>https://www.bookjournalism.com/books/54125</id>
-        <link href="https://www.bookjournalism.com/books/54125"/>
-        <updated>2022-09-29T10:16:16.819Z</updated>
-        <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강원도의 나쁜 선택이 시장에 나비효과를 일으킨다. 불신의 문이 열렸다.]]></title>
