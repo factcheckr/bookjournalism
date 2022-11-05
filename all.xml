@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://factcheckr.github.io/bookjournalism/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-05T06:17:22.512Z</updated>
+    <updated>2022-11-05T07:12:17.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[캐나다가 대규모 이민자를 기다린다. 캐나다가 벌린 팔은 환대일까, 새로운 탈을 쓴 전쟁일까? (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/books/56396</id>
-        <link href="https://www.bookjournalism.com/books/56396"/>
-        <updated>2022-11-02T19:11:17.570Z</updated>
-        <content type="html"><![CDATA[환대의 탈을 쓴 전쟁]]></content>
+        <title type="html"><![CDATA[북저널리즘 라디오의 에피소드 #61에선, 이태원 참사와 관련하여 던져야 하는 질문, 이재용 회장의 취임 후 삼성전자가 갈 길, 캐나다의 대규모 이민자 유입 계획에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/audio/56433</id>
+        <link href="https://www.bookjournalism.com/audio/56433"/>
+        <updated>2022-11-05T07:12:07.879Z</updated>
+        <content type="html"><![CDATA[모두의 미래는 어디에 있을까]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그가 끝내 회장직에 올랐다. 새로운 삼성전자는 위기 속에서 더 잔인해진다. (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/56424</id>
+        <link href="https://www.bookjournalism.com/books/56424"/>
+        <updated>2022-11-05T07:12:07.887Z</updated>
+        <content type="html"><![CDATA[우리에게 삼성전자란]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
@@ -17,6 +24,13 @@
         <link href="https://www.bookjournalism.com/books/54125"/>
         <updated>2022-09-29T10:16:16.819Z</updated>
         <content type="html"><![CDATA[BOOK JOURNALISM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐나다가 대규모 이민자를 기다린다. 캐나다가 벌린 팔은 환대일까, 새로운 탈을 쓴 전쟁일까? (북저널리즘 ─ 전체)]]></title>
+        <id>https://www.bookjournalism.com/books/56396</id>
+        <link href="https://www.bookjournalism.com/books/56396"/>
+        <updated>2022-11-02T19:11:17.570Z</updated>
+        <content type="html"><![CDATA[환대의 탈을 쓴 전쟁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[COP27은 역대급 그린워싱이다. 전 세계 정상이 연출하는 거대한 쇼 앞에서 기후정의를 외치는 목소리는 흩어진다. (북저널리즘 ─ 전체)]]></title>
@@ -73,19 +87,5 @@
         <link href="https://www.bookjournalism.com/books/56275"/>
         <updated>2022-10-26T09:14:16.727Z</updated>
         <content type="html"><![CDATA[죽어서 돈을 더 많이 번 사람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위키백과가 편집자를 늘리려 한다. 토론 테이블의 크기를 키우겠다는 뜻이다. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/books/56251</id>
-        <link href="https://www.bookjournalism.com/books/56251"/>
-        <updated>2022-10-25T15:20:25.204Z</updated>
-        <content type="html"><![CDATA[공공재로서의 미디어, 위키백과]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도의 나쁜 선택이 시장에 나비효과를 일으킨다. 불신의 문이 열렸다. (북저널리즘 ─ 전체)]]></title>
-        <id>https://www.bookjournalism.com/books/56237</id>
-        <link href="https://www.bookjournalism.com/books/56237"/>
-        <updated>2022-10-25T04:22:16.403Z</updated>
-        <content type="html"><![CDATA[레고랜드 판타지]]></content>
     </entry>
 </feed>
