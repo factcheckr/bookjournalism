@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 08:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,50 @@
             <content:encoded><![CDATA[도서관의 불평등]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[11월 3주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/324</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/324</guid>
+            <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221118_181/1668758853015wY0PS_JPEG/f221118.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크의 표현의 자유; 나는 네가 트위터에 저지른 일을 알고 있다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/323</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/323</guid>
+            <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221118_38/1668758043173OAXTO_PNG/f221115.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 2위 암호화폐 거래소의 파산; 네트워크에 투자합니다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/322</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/322</guid>
+            <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221118_104/1668757686404ajz63_PNG/f221117.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[영 케어러를 사회 안으로; 보이지 않는 손 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/321</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/321</guid>
+            <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221118_72/1668757058079j9Uhq_PNG/f221118.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[마약이 쉬운 이유; 세상이 허락한 마약 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/320</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/320</guid>
+            <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[11월 2주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/319</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/319</guid>
             <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221111_246/1668157075787Plkc4_JPEG/r221111.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 시대의 도서관; 도서관의 불평등 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/318</guid>
             <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221111_159/1668156847485o0KS1_PNG/f221110.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[자동차의 다음 단계; 소프트웨어가 정의하는 시대 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/317</guid>
             <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221111_229/1668156626394k9T2q_PNG/f221110_%281%29.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[미국 중간 선거를 읽다; 중간 선거 101 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +157,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/316</guid>
             <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221111_171/1668156434205C8tKk_PNG/f221111.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[11월 1주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -129,41 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/315</guid>
             <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사, 무엇이 중요한가; 필요한 질문 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/314</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/314</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자의 미래; 우리에게 삼성전자란 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/313</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/313</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[캐나다가 이민자를 환영하는 이유; 환대의 탈을 쓴 전쟁 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/312</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/312</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[10월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/311</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/311</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강원도의 믿을 수 없는 보증; 레고랜드 판타지 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/310</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/310</guid>
-            <pubDate>Wed, 16 Nov 2022 17:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
         </item>
     </channel>
 </rss>
