@@ -4,15 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/56780</link>
-            <guid>https://www.bookjournalism.com/books/56780</guid>
-            <pubDate>Mon, 21 Nov 2022 19:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
+            <title><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/56818</link>
+            <guid>https://www.bookjournalism.com/books/56818</guid>
+            <pubDate>Wed, 23 Nov 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[지리의⋯ 힘?]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[용산 시대의 상징, 도어스테핑이 잠정 중단됐다. 진짜 문제는 소통이 아니라 전략의 부재다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/56804</link>
+            <guid>https://www.bookjournalism.com/books/56804</guid>
+            <pubDate>Wed, 23 Nov 2022 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[소통의 조건]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
@@ -20,6 +27,13 @@
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘잠 못 드는 세대’가 3조원 대 슬리포노믹스를 만들었다. 현대인들이 잠 못 드는 이유는 무엇일까? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/56780</link>
+            <guid>https://www.bookjournalism.com/books/56780</guid>
+            <pubDate>Mon, 21 Nov 2022 19:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[잠을 잃은 사회]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사우디아라비아의 미래형 도시 네옴 시티는 친환경 스마트 도시를 꿈꾼다. 기적 같은 구상은 자원의 저주를 끊을 수 있을까? (북저널리즘 ─ 전체)]]></title>
@@ -78,20 +92,6 @@
             <content:encoded><![CDATA[세상이 허락한 마약]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북저널리즘 라디오의 에피소드 #62에선, 마포구의 작은도서관 폐지, 르노와 구글의 소프트웨어 정의 자동차, 미국의 중간 선거에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/audio/56608</link>
-            <guid>https://www.bookjournalism.com/audio/56608</guid>
-            <pubDate>Fri, 11 Nov 2022 13:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[사라지는 도서관, 똑똑해지는 자동차, 예측불허 중간선거]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레드 웨이브는 없었고 유권자의 마음은 복잡하다. 미국 중간 선거가 말하는 것은 무엇인가. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/56598</link>
-            <guid>https://www.bookjournalism.com/books/56598</guid>
-            <pubDate>Fri, 11 Nov 2022 13:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[중간 선거 101]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[11월 3주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/324</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/324</guid>
@@ -121,7 +121,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/321</guid>
             <pubDate>Fri, 18 Nov 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221118_72/1668757058079j9Uhq_PNG/f221118.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[마약이 쉬운 이유; 세상이 허락한 마약 (오디오클립 ─ 북저널리즘 라디오)]]></title>
