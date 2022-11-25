@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 12:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[이것은 미술이 아니다?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[15년간 디즈니를 이끈 전설의 밥 아이거 CEO가 복귀했다. 디즈니 심폐 소생술은 성공할까. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/56854</link>
-            <guid>https://www.bookjournalism.com/books/56854</guid>
-            <pubDate>Wed, 23 Nov 2022 15:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[디즈니 살리기 대작전]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[15년간 디즈니를 이끈 전설의 밥 아이거 CEO가 복귀했다. 디즈니 심폐 소생술은 성공할까. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/56854</link>
+            <guid>https://www.bookjournalism.com/books/56854</guid>
+            <pubDate>Wed, 23 Nov 2022 15:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[디즈니 살리기 대작전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산맥과 바다는 국가의 가능성을 결정했다. 그러나 이 모든 것이 바뀐다. 지정학의 시대는 끝났다. (북저널리즘 ─ 전체)]]></title>
