@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 01:05:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:06:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/57056</guid>
             <pubDate>Wed, 30 Nov 2022 18:14:50 GMT</pubDate>
             <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다. (북저널리즘 ─ 전체)]]></title>
@@ -27,13 +34,6 @@
             <guid>https://www.bookjournalism.com/books/57026</guid>
             <pubDate>Tue, 29 Nov 2022 19:09:49 GMT</pubDate>
             <content:encoded><![CDATA[이산화탄소와 냉소 사이]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국과 대만의 두 정치 지도자가 동시에 흔들린다. 위기를 수놓은 색이 의미하는 바는 무엇인가. (북저널리즘 ─ 전체)]]></title>
