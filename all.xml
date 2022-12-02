@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 많던 ‘일제’는 어디로 갔을까? 일본의 완벽주의는 지금 일본 성장의 발목을 잡고 있다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/57071</link>
+            <guid>https://www.bookjournalism.com/books/57071</guid>
+            <pubDate>Fri, 02 Dec 2022 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[일본, 위험한 레트로]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[9만 원짜리 딸기 뷔페가 인기다. 불황이기 때문이다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/57073</link>
@@ -15,18 +22,18 @@
             <content:encoded><![CDATA[나는 소비한다. 고로 존재한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/57056</link>
-            <guid>https://www.bookjournalism.com/books/57056</guid>
-            <pubDate>Wed, 30 Nov 2022 18:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕시가 정신 질환을 앓는 홈리스들을 관리하는 방침을 발표했다. 홈리스를 감독하면 도시 범죄율은 낮아질까? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/57056</link>
+            <guid>https://www.bookjournalism.com/books/57056</guid>
+            <pubDate>Wed, 30 Nov 2022 18:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[힘의 방향이 바뀌면 돈의 방향도 바뀐다. 신자유주의가 끝났다. IMF의 시대도 끝났다. (북저널리즘 ─ 전체)]]></title>
@@ -83,13 +90,6 @@
             <guid>https://www.bookjournalism.com/books/56818</guid>
             <pubDate>Wed, 23 Nov 2022 09:12:21 GMT</pubDate>
             <content:encoded><![CDATA[지리의⋯ 힘?]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[용산 시대의 상징, 도어스테핑이 잠정 중단됐다. 진짜 문제는 소통이 아니라 전략의 부재다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/56804</link>
-            <guid>https://www.bookjournalism.com/books/56804</guid>
-            <pubDate>Wed, 23 Nov 2022 09:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[소통의 조건]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[오디오톡스] 토스 정경화 콘텐츠 매니저 - 자주 실패하고 간혹 성공하는 사람들 (오디오클립 ─ 북저널리즘 라디오)]]></title>
