@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 10:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,43 @@
             <content:encoded><![CDATA[집 잃은 사람들]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[12월 2주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/341</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/341</guid>
+            <pubDate>Fri, 09 Dec 2022 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>52분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221209_205/1670578457525BHFHT_JPEG/r221210.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화물연대 파업의 속사정; 집단 속의 개인 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/340</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/340</guid>
+            <pubDate>Fri, 09 Dec 2022 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221209_161/1670578330948nCYxD_PNG/f221209.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼 앱에 도전한다; 슈퍼 앱의 조건 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/339</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/339</guid>
+            <pubDate>Fri, 09 Dec 2022 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221209_288/1670578168678j4t98_PNG/f221208.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MZ세대가 전화를 꺼리는 이유; 완벽하지 않을 바에야 말하지 않는 이들 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/338</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/338</guid>
+            <pubDate>Fri, 09 Dec 2022 10:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221209_13/1670577980512yfAKz_PNG/f221207.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[12월 1주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/337</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/337</guid>
             <pubDate>Fri, 02 Dec 2022 10:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>58분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221202_88/1669973861083Jl2gr_JPEG/r221202.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홈리스를 생각한다; 집 잃은 사람들 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +136,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/336</guid>
             <pubDate>Fri, 02 Dec 2022 10:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221202_260/1669973527913DUcoy_PNG/f221130.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국과 대만의 지도자가 흔들린다; 화이트 페이퍼, 블루 웨이브 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/335</guid>
             <pubDate>Fri, 02 Dec 2022 10:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221202_90/1669973340387Q4WK1_PNG/f221128.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[녹색항로와 블루카본에 주목해야 하는 이유; 이산화탄소와 냉소 사이 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/334</guid>
             <pubDate>Fri, 02 Dec 2022 10:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221202_131/1669973109546dvVxd_PNG/f221129.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이모지로 소통하는 시대; 동상이몽 이모지 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -136,34 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/332</guid>
             <pubDate>Thu, 01 Dec 2022 23:12:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>46분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[11월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/329</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/329</guid>
-            <pubDate>Thu, 01 Dec 2022 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>70분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사우디의 새로운 도전, 네옴 시티; 엔드 오브 오일 머니 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/328</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/328</guid>
-            <pubDate>Thu, 01 Dec 2022 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AI도 화가가 될 수 있을까; 이것은 미술이 아니다? (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/327</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/327</guid>
-            <pubDate>Thu, 01 Dec 2022 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[불면증 앓는 현대인; 잠을 잃은 사회 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/326</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/326</guid>
-            <pubDate>Thu, 01 Dec 2022 23:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
