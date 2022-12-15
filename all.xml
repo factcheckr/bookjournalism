@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 02:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/57406</guid>
             <pubDate>Wed, 14 Dec 2022 23:11:31 GMT</pubDate>
             <content:encoded><![CDATA[이미 도착한 검색의 미래]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전 세계를 줄 세우고 있는 사우디아라비아의 빈 살만 왕세자. 그러나 그의 손에는 혈육의 피가 묻어있다. (북저널리즘 ─ 전체)]]></title>
@@ -27,13 +34,6 @@
             <guid>https://www.bookjournalism.com/books/57416</guid>
             <pubDate>Wed, 14 Dec 2022 04:14:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴 아프리카]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[3년 만에 마스크를 벗는다. 그런데, 벗어도 될까? (북저널리즘 ─ 전체)]]></title>
