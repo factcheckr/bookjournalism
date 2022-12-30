@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 09:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 10:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <content:encoded><![CDATA[카타르가 월드컵을 연 진짜 이유]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에디터들이 말하는 〈2022 INSIDE〉 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/352</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/352</guid>
+            <pubDate>Fri, 30 Dec 2022 10:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>63분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20221230_137/1672392086409UhMAp_JPEG/r221230.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[12월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/351</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/351</guid>
@@ -125,7 +133,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/348</guid>
             <pubDate>Fri, 23 Dec 2022 10:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20221223_137/1671779619696D2SWf_PNG/f221220.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[월드컵을 통해 얻은 것; 카타르가 월드컵을 연 진짜 이유 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -161,13 +168,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/343</guid>
             <pubDate>Fri, 16 Dec 2022 10:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인공지능에게 물어보세요; 이미 도착한 검색의 미래 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/342</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/342</guid>
-            <pubDate>Fri, 16 Dec 2022 10:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>12분]]></content:encoded>
         </item>
     </channel>
 </rss>
