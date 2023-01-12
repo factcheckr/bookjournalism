@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 00:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 02:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>https://www.bookjournalism.com/books/58326</guid>
             <pubDate>Wed, 11 Jan 2023 15:22:20 GMT</pubDate>
             <content:encoded><![CDATA[다시, 새로운 오존층]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[백조 목 플라스크 실험, 저온 살균법, 백신 개발. 이 모든 업적을 이뤄 낸 과학자 파스퇴르. 그는 어떻게 성공할 수 있었을까? (북저널리즘 ─ 전체)]]></title>
@@ -27,13 +34,6 @@
             <guid>https://www.bookjournalism.com/books/58258</guid>
             <pubDate>Wed, 11 Jan 2023 04:14:01 GMT</pubDate>
             <content:encoded><![CDATA[마법은 풀린다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[15번의 투표 끝에 미 하원 의장이 선출됐다. 배후엔 트럼프가 있다. (북저널리즘 ─ 전체)]]></title>
