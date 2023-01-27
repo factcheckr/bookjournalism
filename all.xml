@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 00:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 02:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[서울시는 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/58863</link>
-            <guid>https://www.bookjournalism.com/books/58863</guid>
-            <pubDate>Wed, 25 Jan 2023 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[삐빅, 무료입니다]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/54125</link>
             <guid>https://www.bookjournalism.com/books/54125</guid>
             <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울시는 대중교통 요금 인상을, 세종시는 대중교통 무상화를 추진한다. 대중교통을 둘러싼 다른 선택, 이유는 무엇일까? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/58863</link>
+            <guid>https://www.bookjournalism.com/books/58863</guid>
+            <pubDate>Wed, 25 Jan 2023 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[삐빅, 무료입니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미디어에서 나오는 청춘 같은 노년만이 은퇴 후 바람직한 삶의 모습은 아니다. 현실에는 그보다 다양하고 일상적인 노년의 생활이 존재한다. (북저널리즘 ─ 전체)]]></title>
