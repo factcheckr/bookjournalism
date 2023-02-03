@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 11:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 12:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -93,11 +93,49 @@
         </item>
         <item>
             <title><![CDATA[1월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/377</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/377</guid>
+            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_229/1675424365257cubmD_PNG/r230203.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[난방비 대란, 이제 시작이다; 풍요는 끝났다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/375</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/375</guid>
+            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_204/16754251291668lxqf_PNG/f220202.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 경찰은 왜?; 공권력이 지켜야 하는 것 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/374</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/374</guid>
+            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_51/1675424921318x4F10_PNG/f230131.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[룸카페가 문제는 아니고; 오버 더 룸 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/373</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/373</guid>
+            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230203_19/16754248299069Eved_PNG/f230203.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[로봇에 맞춰 일하라고?; 사이보그지만 괜찮아 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/372</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/372</guid>
+            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/371</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/371</guid>
             <pubDate>Fri, 27 Jan 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230127_1/1674811457391Gjjvl_JPEG/r230127.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제는 휴대폰도 직접 수리한다; 수리할 결심 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/370</guid>
             <pubDate>Fri, 27 Jan 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230127_159/1674811225519xtt66_PNG/f230125.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[버스 요금, 1500원부터 시작; 삐빅, 무료입니다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/369</guid>
             <pubDate>Fri, 27 Jan 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230127_17/1674811040878sLtj7_PNG/f230126.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스코틀랜드와 영국의 신경전; 인디펜던트 랜드 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +157,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/368</guid>
             <pubDate>Fri, 27 Jan 2023 10:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230127_54/1674810794525RCXLa_PNG/f230127.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[상상력에 도전하는 지구생활자들 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -129,41 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/367</guid>
             <pubDate>Mon, 23 Jan 2023 15:13:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>79분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 3주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/366</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/366</guid>
-            <pubDate>Fri, 20 Jan 2023 10:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스가 코미디언을 만날 때; 뉴스룸 밖으로 나간 뉴스 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/365</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/365</guid>
-            <pubDate>Fri, 20 Jan 2023 10:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바다에 오염수가 섞인다; 부흥의 국가, 일본의 결심 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/364</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/364</guid>
-            <pubDate>Fri, 20 Jan 2023 10:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[교육 개혁이 다가온다; 모두를 향한 나비효과 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/363</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/363</guid>
-            <pubDate>Fri, 20 Jan 2023 10:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1월 2주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/362</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/362</guid>
-            <pubDate>Fri, 13 Jan 2023 12:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>69분]]></content:encoded>
         </item>
     </channel>
 </rss>
