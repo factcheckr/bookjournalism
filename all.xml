@@ -4,15 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 15:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 17:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플페이는 지갑의 의미를 어떻게 바꿔 놓을까? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/59122</link>
+            <guid>https://www.bookjournalism.com/books/59122</guid>
+            <pubDate>Mon, 06 Feb 2023 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[지갑의 종말]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[서울시가 집회 없는 광장을 꿈꾼다. 어불성설이다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/59094</link>
             <guid>https://www.bookjournalism.com/books/59094</guid>
             <pubDate>Sun, 05 Feb 2023 15:10:27 GMT</pubDate>
             <content:encoded><![CDATA[광장의 의미]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/54125</link>
+            <guid>https://www.bookjournalism.com/books/54125</guid>
+            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북저널리즘 라디오의 에피소드 #74에선, 난방비, 미국 경찰, 룸카페, 아마존 파업에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
@@ -27,13 +41,6 @@
             <guid>https://www.bookjournalism.com/books/59060</guid>
             <pubDate>Fri, 03 Feb 2023 03:16:06 GMT</pubDate>
             <content:encoded><![CDATA[오버 더 룸]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/54125</link>
-            <guid>https://www.bookjournalism.com/books/54125</guid>
-            <pubDate>Thu, 29 Sep 2022 10:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보일러를 마음대로 켜면 안 되는 시대다. 혁신이 필요하다. (북저널리즘 ─ 전체)]]></title>
@@ -78,18 +85,11 @@
             <content:encoded><![CDATA[자가 수리하러 비싼 버스타고 스코틀랜드로]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스코틀랜드의 트랜스젠더 권리 향상은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘 ─ 전체)]]></title>
+            <title><![CDATA[스코틀랜드의 퀴어 인권은 어쩌다 영국과의 자존심 대결로 번졌나. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/58877</link>
             <guid>https://www.bookjournalism.com/books/58877</guid>
             <pubDate>Thu, 26 Jan 2023 20:11:04 GMT</pubDate>
             <content:encoded><![CDATA[인디펜던트 랜드]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘나 혼자 산다’고 모두가 ‘잘’ 사는 건 아니다. 1인 가구 천만 시대, 우리가 놓치고 있는 것은 무엇인가. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/58754</link>
-            <guid>https://www.bookjournalism.com/books/58754</guid>
-            <pubDate>Fri, 27 Jan 2023 20:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[1인 가구와 기술]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1월 4주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
