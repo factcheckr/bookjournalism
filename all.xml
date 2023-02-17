@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -92,12 +92,50 @@
             <content:encoded><![CDATA[주주들이여, 행동하라]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2월 3주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/389</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/389</guid>
+            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>64분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230217_139/1676621906147wFENd_JPEG/r230217.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포드와 테슬라가 한국을 물먹이는 방법; 전기차 표류기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/388</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/388</guid>
+            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230217_46/1676621826736ejD9f_PNG/76-1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 없는 스키장의 미래는?; 눈 없는 스키장 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/387</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/387</guid>
+            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230217_62/16766217468078WKwG_PNG/76-2.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[종편 채널이 문제라고?; 방송이란 무엇인가 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/386</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/386</guid>
+            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230217_81/1676621654520CFsNb_PNG/76-3.png?type=f150_150" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국경 없는 재난의 시대; 지진 다시 생각하기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/385</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/385</guid>
+            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2월 2주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/383</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/383</guid>
             <pubDate>Fri, 10 Feb 2023 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>75분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230210_150/1676023223057Xtt7I_JPEG/r230210.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플페이 한국 상륙, 당신의 선택은?; 지갑의 종말 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -105,7 +143,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/382</guid>
             <pubDate>Fri, 10 Feb 2023 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230210_245/1676023071035lpzl6_PNG/f230207.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[국민의힘이 지금 시끄러운 이유는?; 대통령의 야심 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -113,7 +150,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/381</guid>
             <pubDate>Fri, 10 Feb 2023 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230210_8/1676022876931YxoGa_PNG/f230209.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[주주 행동주의, SM엔터테인먼트 다음은 은행?; 주주들이여, 행동하라 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -121,7 +157,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/380</guid>
             <pubDate>Fri, 10 Feb 2023 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230210_86/1676022692986F7F3j_PNG/f230208.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[챗GPT는 모두를 위한 인공지능이 될 수 있을까?; 프로메테우스, 그 이후 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -129,41 +164,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/379</guid>
             <pubDate>Fri, 10 Feb 2023 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2월 1주; 전체 듣기 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/377</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/377</guid>
-            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>73분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[난방비 대란, 이제 시작이다; 풍요는 끝났다 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/375</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/375</guid>
-            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 경찰은 왜?; 공권력이 지켜야 하는 것 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/374</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/374</guid>
-            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[룸카페가 문제는 아니고; 오버 더 룸 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/373</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/373</guid>
-            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로봇에 맞춰 일하라고?; 사이보그지만 괜찮아 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/372</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/372</guid>
-            <pubDate>Fri, 03 Feb 2023 12:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
         </item>
     </channel>
 </rss>
