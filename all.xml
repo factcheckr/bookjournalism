@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 00:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 02:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[무엇이 올바른 작품인가?]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대퇴사의 시대는 끝났다. 대해고의 시대가 시작된다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/59610</link>
-            <guid>https://www.bookjournalism.com/books/59610</guid>
-            <pubDate>Mon, 20 Feb 2023 17:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[CJ ENM의 칼바람]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 19:11:03 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대퇴사의 시대는 끝났다. 대해고의 시대가 시작된다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/59610</link>
+            <guid>https://www.bookjournalism.com/books/59610</guid>
+            <pubDate>Mon, 20 Feb 2023 17:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[CJ ENM의 칼바람]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[미국 최대 스포츠 이벤트 NFL 슈퍼볼이 도박판이 됐다. 중독에 대해 다시 질문할 때다. (북저널리즘 ─ 전체)]]></title>
