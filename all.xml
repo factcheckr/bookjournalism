@@ -4,22 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 00:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇이 변했고, 무엇을 잃었나. (북저널리즘 ─ 전체)]]></title>
+            <title><![CDATA[러시아가 우크라이나를 침공한 지 1년이 됐다. 무엇을 잃었고, 무엇을 배웠나. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/59775</link>
             <guid>https://www.bookjournalism.com/books/59775</guid>
             <pubDate>Thu, 23 Feb 2023 15:13:06 GMT</pubDate>
             <content:encoded><![CDATA[전쟁이 남긴 기록들]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/59726</link>
-            <guid>https://www.bookjournalism.com/books/59726</guid>
-            <pubDate>Wed, 22 Feb 2023 15:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 프라임 멤버를 위해 그날의 주요 뉴스를 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
@@ -27,6 +20,13 @@
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 19:11:03 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[법원이 처음으로 동성 배우자의 건강보험 피부양자 자격을 인정했다. 가족의 확장을 기대할 수 있을까? (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/59726</link>
+            <guid>https://www.bookjournalism.com/books/59726</guid>
+            <pubDate>Wed, 22 Feb 2023 15:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[가족의 확장]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지진학자들은 지진을 어느 정도 예측한다. 하지만 인간의 행동은 데이터를 비껴간다. (북저널리즘 ─ 전체)]]></title>
