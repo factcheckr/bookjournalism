@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 23:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 02:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[시진핑의 스마트시티, 하이난]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/59966</link>
-            <guid>https://www.bookjournalism.com/books/59966</guid>
-            <pubDate>Wed, 01 Mar 2023 15:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 19:11:03 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[간호법을 둘러싼 의료계의 갈등이 심화한다. 대중은 외면한다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/59966</link>
+            <guid>https://www.bookjournalism.com/books/59966</guid>
+            <pubDate>Wed, 01 Mar 2023 15:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[간호법 갈등, 누구의 책임인가]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달러 헤게모니는 미국이 철저히 지켜내고 있다. 확장의 열망을 가진 중국으로서는 용인할 수 없다. (북저널리즘 ─ 전체)]]></title>
