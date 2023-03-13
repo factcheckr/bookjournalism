@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 00:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 02:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,18 +15,18 @@
             <content:encoded><![CDATA[악당이 된 빅테크에 맞서기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/60171</link>
-            <guid>https://www.bookjournalism.com/books/60171</guid>
-            <pubDate>Thu, 09 Mar 2023 15:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/59400</link>
             <guid>https://www.bookjournalism.com/books/59400</guid>
             <pubDate>Wed, 15 Feb 2023 19:11:03 GMT</pubDate>
             <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[암호화폐 은행 실버게이트가 문을 닫았다. 이 시장에 남은 것은 희망인가 위기인가. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/60171</link>
+            <guid>https://www.bookjournalism.com/books/60171</guid>
+            <pubDate>Thu, 09 Mar 2023 15:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[실버게이트 사태로 보는 암호화폐의 미래]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[도면만 있으면 누구나 생산자가 되는 시대가 올까. (북저널리즘 ─ 전체)]]></title>
