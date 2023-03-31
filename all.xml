@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 07:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 세 번째 에피소드에서는 사라진 꿀벌과 인공지능 개발 중단 공개 서한, 권도형 대표의 체포와 가상화폐의 미래에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/61051</link>
+            <guid>https://www.bookjournalism.com/audio/61051</guid>
+            <pubDate>Fri, 31 Mar 2023 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[4월 1일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/526981/w/646/contents_thumb.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[혁신은 창조의 힘으로 이루어지지 않는다. 애플은 타이밍을 잘 안다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/61039</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/524072/w/646/e230324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[간편한 도구를 넘어서는 인공지능이 출현하기 위해서는 데이터의 제도적, 기술적 빗장이 열려야 한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/60596</link>
-            <guid>https://www.bookjournalism.com/books/60596</guid>
-            <pubDate>Wed, 22 Mar 2023 15:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[챗GPT는 암 치료제를 개발할 수 있을까?]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/523795/w/646/e230323.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[꿀벌 백신 가능할까/일론 머스크 “AI 개발 중지” 요청 왜?/권도형 체포와《비트코인 제국주의》 [3월 5주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/399</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/399</guid>
+            <pubDate>Fri, 31 Mar 2023 08:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230331_133/1680249473894BlCSs_PNG/contents_thumb.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[밥값의 무게/서커스의 귀환/《우주에 투자합니다》 [3월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/393</guid>
             <pubDate>Fri, 24 Feb 2023 09:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230224_5/1677226226937u1WoQ_PNG/77-1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[작지만 큰 걸음, 동성 커플의 건강보험 피부양자 자격 인정; 가족의 확장 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/388</guid>
             <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[눈 없는 스키장의 미래는?; 눈 없는 스키장 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/387</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/387</guid>
-            <pubDate>Fri, 17 Feb 2023 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>13분]]></content:encoded>
         </item>
     </channel>
 </rss>
