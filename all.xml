@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 07:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 08:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열한 번째 에피소드에서는 시위기 일어난 몰도바와 우울증갤러리, 위키피디아와 인공지능에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/62623</link>
+            <guid>https://www.bookjournalism.com/audio/62623</guid>
+            <pubDate>Fri, 26 May 2023 08:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[5월 27일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542220/w/646/contents_thumb_0527.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[영미권에서 폐경기에 대한 복지 제도가 확대하고 있다. 여성의 생애 주기를 아는 것이 저출산 대책의 시작이다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/62594</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539569/w/646/e230518.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[38억 년 전, 태양계에는 엄청난 격변이 있었다. 지금도 그 안에는 엄청나게 많은 소행성이 존재한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/62254</link>
-            <guid>https://www.bookjournalism.com/books/62254</guid>
-            <pubDate>Wed, 17 May 2023 08:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[지구를 지켜라]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539556/w/646/eb230517.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[몰도바 “EU가입 원해”/우울증갤러리 회복법은/AI 부작용과 《스무 살 위키피디아, 공유와 참여의 힘》 [5월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/408</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/408</guid>
+            <pubDate>Fri, 26 May 2023 08:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230526_261/1685073963445YW6e0_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인종 차별, 게임으로 체험/공짜 TV, 근데 광고를 곁들인/동해 지진과 《예측 불가능한 것을 예측하기》 [5월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/404</guid>
             <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230428_53/1682652389614fpmDA_PNG/apple.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[정치 성향 달라도, 대화가 필요해/제주도 관광하려면 돈 더 내라고?/팬데믹의 교훈과 《코로나는 기회다》 [4월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/398</guid>
             <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반도체의 길/계란이 뭐라고/《법정에 출석한 인공지능》 [3월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/397</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/397</guid>
-            <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>34분]]></content:encoded>
         </item>
     </channel>
 </rss>
