@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 14:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 15:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 신간 《아프리카 스타트업》의 저자인 이종현 국제개발협력학 박사에게 왜 지금 아프리카를 주목해야 하는지 물었습니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/62557</link>
+            <guid>https://www.bookjournalism.com/audio/62557</guid>
+            <pubDate>Sun, 28 May 2023 15:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[5월 29일 - 북저널리즘 라디오]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542286/w/646/93_africa.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열한 번째 에피소드에서는 시위가 일어난 몰도바와 우울증갤러리, 위키피디아와 인공지능에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/audio/62623</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539689/w/646/ex230518.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기술의 개방과 민주화는 웹2.0을 넘어설 수 있을까? 플랫폼의 독점 이후에는 탈중앙을 지향하는 프로토콜이 있다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/62326</link>
-            <guid>https://www.bookjournalism.com/books/62326</guid>
-            <pubDate>Wed, 17 May 2023 15:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[웹3.0이 그리는 미래]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/539569/w/646/e230518.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스페셜 북토크 ; 아프리카 스타트업 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/409</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/409</guid>
+            <pubDate>Sun, 28 May 2023 15:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230528_111/16852408871510cpWj_JPEG/93_africa.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[몰도바 “EU가입 원해”/우울증갤러리 회복법은/AI 부작용과 《스무 살 위키피디아, 공유와 참여의 힘》 [5월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/405</guid>
             <pubDate>Fri, 05 May 2023 08:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230504_79/1683191585237NCzgP_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[엄마몰래 말고, 남편아내몰래 게임한다/Z세대는 어디에 의지할까?/피프티 피프티와 《갈등하는 케이, 팝》 [4월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -167,13 +174,6 @@
             <title><![CDATA[꿀벌 백신 가능할까/일론 머스크 “AI 개발 중지” 요청 왜?/권도형 체포와《비트코인 제국주의》 [3월 5주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/399</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/399</guid>
-            <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밥값의 무게/서커스의 귀환/《우주에 투자합니다》 [3월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/398</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/398</guid>
             <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>53분]]></content:encoded>
         </item>
