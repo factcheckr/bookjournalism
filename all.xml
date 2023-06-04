@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 14:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 15:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독일과 스페인이 딸기를 두고 싸운다. 난감한 건 스페인의 중앙 정부, 웃는 건 스페인의 극우다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/62875</link>
+            <guid>https://www.bookjournalism.com/books/62875</guid>
+            <pubDate>Sun, 04 Jun 2023 15:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[갈등의 씨앗이 된 딸기]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/545595/w/646/e230605.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북저널리즘 위크엔드, 열두 번째 에피소드에서는 중국의 청년 실업률과 압구정동 아파트의 재건축, 토크 뉴스와 알고리즘에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/audio/62865</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 May 2023 15:10:59 GMT</pubDate>
             <content:encoded><![CDATA[여성의 생애 주기를 논해야 하는 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/541946/w/646/e230526.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 초까지 11개의 유니콘이 아프리카에서 탄생했다. 우리가 몰랐던 아프리카, 그곳에 스타트업이 있다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/62420</link>
-            <guid>https://www.bookjournalism.com/books/62420</guid>
-            <pubDate>Thu, 25 May 2023 15:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[아프리카 스타트업]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/542347/w/646/93_africa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[중국 청년 ‘노오력’ 필요해?/흉물vs유산, 한 동 남기기/스스로 만든 알고리즘? 《뉴스, 토크하다》 [6월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
