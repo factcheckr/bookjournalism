@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다 알아들으면 ‘판교 사투리’ 만렙/위기의 한중 관계/소아과도 오픈런 시대?, 《의사들은 왜 그래?》 [6월 3주]]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/413</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/413</guid>
+            <pubDate>Fri, 16 Jun 2023 07:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>67분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230616_132/1686895574512nQ8fp_PNG/contents_thumb_1_%281%29.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[스포츠 싹쓸이하는 사우디/러시앤캐시의 국내 철수, 왜?/트랜스젠더 운동선수 논란, 《모두의 운동장》 [6월 2주]]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/411</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/408</guid>
             <pubDate>Fri, 26 May 2023 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230526_261/1685073963445YW6e0_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[인종 차별, 게임으로 체험/공짜 TV, 근데 광고를 곁들인/동해 지진과 《예측 불가능한 것을 예측하기》 [5월 3주]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/403</guid>
             <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[챗GPT “뉴진스는 열병”/하필 이때... 중국 가는 테슬라/파리 올림픽과 《폐허만 남은 런던 올림픽》 [4월 2주]]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/402</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/402</guid>
-            <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>65분]]></content:encoded>
         </item>
     </channel>
 </rss>
