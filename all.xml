@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 위크엔드, 열다 번째 에피소드에서는 헌터 부츠와 영국의 흥망성쇠, 청소년 펜타닐 문제와, 종이책 《서점 여행자의 노트》에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/63551</link>
+            <guid>https://www.bookjournalism.com/audio/63551</guid>
+            <pubDate>Fri, 23 Jun 2023 08:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[6월 24일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552376/w/646/contents_thumb_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[중구의 마지막 종합 병원이 사라진다. 한국의 현주소가 드러난다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/63534</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/550285/w/646/eb230614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[20세기 이탈리아의 마지막 스트롱맨 베를루스코니 전 총리가 사망했다. 그의 방식은 21세기에도 유효하다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/63307</link>
-            <guid>https://www.bookjournalism.com/books/63307</guid>
-            <pubDate>Tue, 13 Jun 2023 15:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[이탈리안 스트롱맨의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/549750/w/646/e230613.png" length="0" type="image/png"/>
+            <title><![CDATA[파산 충격 ‘헌터 부츠’/‘청소년 10% 펜타닐패치 경험’ 정말?/서울국제도서전과 《서점 여행자의 노트》[6월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/414</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/414</guid>
+            <pubDate>Fri, 23 Jun 2023 08:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230623_102/1687492292790AgAOs_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다 알아들으면 ‘판교 사투리’ 만렙/위기의 한중 관계/소아과도 오픈런 시대?, 《의사들은 왜 그래?》 [6월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/409</guid>
             <pubDate>Sun, 28 May 2023 15:10:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230528_111/16852408871510cpWj_JPEG/93_africa.jpeg?type=f150_150" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[몰도바 “EU가입 원해”/우울증갤러리 회복법은/AI 부작용과 《스무 살 위키피디아, 공유와 참여의 힘》 [5월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/404</guid>
             <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정치 성향 달라도, 대화가 필요해/제주도 관광하려면 돈 더 내라고?/팬데믹의 교훈과 《코로나는 기회다》 [4월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/403</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/403</guid>
-            <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>56분]]></content:encoded>
         </item>
     </channel>
 </rss>
