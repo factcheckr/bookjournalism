@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 07:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 08:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘현피’ 뜨는 머스크&저커버그/CGV의 변신, 극장에서 만나요?/역사로 미래를 전망하다 《결정적 순간》 [6월 5주]]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/415</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/415</guid>
+            <pubDate>Fri, 30 Jun 2023 08:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230630_257/1688098641019c4W7d_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[파산 충격 ‘헌터 부츠’/‘청소년 10% 펜타닐패치 경험’ 정말?/서울국제도서전과 《서점 여행자의 노트》[6월 4주]]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/414</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/410</guid>
             <pubDate>Fri, 02 Jun 2023 08:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230602_83/1685676252507vbeVm_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[스페셜 북토크 ; 아프리카 스타트업]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/405</guid>
             <pubDate>Fri, 05 May 2023 08:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엄마몰래 말고, 남편아내몰래 게임한다/Z세대는 어디에 의지할까?/피프티 피프티와 《갈등하는 케이, 팝》 [4월 4주]]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/404</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/404</guid>
-            <pubDate>Wed, 03 May 2023 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>48분]]></content:encoded>
         </item>
     </channel>
 </rss>
