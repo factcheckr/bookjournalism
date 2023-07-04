@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 07:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 08:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북저널리즘 파운더스, 첫 번째 인터뷰 주인공은 북저널리즘 이연대 대표입니다. 세상에 없던 지식 구독 서비스를 만들었습니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/63905</link>
+            <guid>https://www.bookjournalism.com/audio/63905</guid>
+            <pubDate>Tue, 04 Jul 2023 08:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[7월 4일, FOUNDERS]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/555816/w/646/logo_founders_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말레이시아에 ‘할랄’ 한우를 수출한다. 너무 많기 때문이다. 그런데 소비자 가격은 그대로다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/63875</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/553061/w/646/95_moments.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[현대 사회의 난민은 국경에서만 탄생하지 않는다. 패러다임을 바꿔야 한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/63502</link>
-            <guid>https://www.bookjournalism.com/books/63502</guid>
-            <pubDate>Sun, 25 Jun 2023 15:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[2023년의 새로운 난민]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/552489/w/646/IMG_1437.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[FOUNDERS #1 ; 지식 구독 서비스, 돈이 되나요? - 북저널리즘 이연대 대표 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/416</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/416</guid>
+            <pubDate>Tue, 04 Jul 2023 08:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230704_73/1688453350538xLRjy_JPEG/logo_founders_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘현피’ 뜨는 머스크&저커버그/CGV의 변신, 극장에서 만나요?/역사로 미래를 전망하다 《결정적 순간》 [6월 5주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/411</guid>
             <pubDate>Fri, 09 Jun 2023 08:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>66분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230609_90/1686297318188bg6a4_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중국 청년 ‘노오력’ 필요해?/흉물vs유산, 한 동 남기기/스스로 만든 알고리즘? 《뉴스, 토크하다》 [6월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/406</guid>
             <pubDate>Fri, 12 May 2023 08:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[흑인 인어공주와 PC 논쟁/생각까지 읽는 인공지능/어린이날에 돌아보는 《오비추어리, 교육감 노옥희》 [5월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/405</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/405</guid>
-            <pubDate>Fri, 05 May 2023 08:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>62분]]></content:encoded>
         </item>
     </channel>
 </rss>
