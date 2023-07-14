@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이혼지원금 주는 요즘 회사/친환경 항공유로 깨끗한 여행을?/지구에 남긴 인간의 흔적 《인류세 시나리오》 [7월 2주]]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/420</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/420</guid>
+            <pubDate>Fri, 14 Jul 2023 09:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230714_300/1689324134405nU0ai_JPEG/r230715_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나는 젊다”운동하는 美대선 후보/문어는 무슨 꿈을 꿀까?/은마아파트와 《재개발의 정치학》 [7월 1주]]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/417</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/414</guid>
             <pubDate>Fri, 23 Jun 2023 08:15:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>54분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230623_102/1687492292790AgAOs_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[다 알아들으면 ‘판교 사투리’ 만렙/위기의 한중 관계/소아과도 오픈런 시대?, 《의사들은 왜 그래?》 [6월 3주]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/408</guid>
             <pubDate>Fri, 26 May 2023 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인종 차별, 게임으로 체험/공짜 TV, 근데 광고를 곁들인/동해 지진과 《예측 불가능한 것을 예측하기》 [5월 3주]]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/407</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/407</guid>
-            <pubDate>Fri, 19 May 2023 08:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>45분]]></content:encoded>
         </item>
     </channel>
 </rss>
