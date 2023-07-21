@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극우유튜브 레드필은 누구?/기부,압색..새마을금고 AtoZ/에어택시와 이동의 미래 《미래, 모빌리티》 [7월 3주]]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/421</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/421</guid>
+            <pubDate>Fri, 21 Jul 2023 08:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>60분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230721_67/1689925574602GkMkw_JPEG/r230722_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이혼지원금 주는 요즘 회사/친환경 항공유로 깨끗한 여행을?/지구에 남긴 인간의 흔적 《인류세 시나리오》 [7월 2주]]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/420</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/415</guid>
             <pubDate>Sat, 15 Jul 2023 02:58:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230630_257/1688098641019c4W7d_PNG/contents_thumb_1.png?type=f150_150" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[파산 충격 ‘헌터 부츠’/‘청소년 10% 펜타닐패치 경험’ 정말?/서울국제도서전과 《서점 여행자의 노트》[6월 4주]]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/409</guid>
             <pubDate>Sat, 15 Jul 2023 02:58:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>42분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몰도바 “EU가입 원해”/우울증갤러리 회복법은/AI 부작용과 《스무 살 위키피디아, 공유와 참여의 힘》 [5월 4주]]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/408</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/408</guid>
-            <pubDate>Sat, 15 Jul 2023 02:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
         </item>
     </channel>
 </rss>
