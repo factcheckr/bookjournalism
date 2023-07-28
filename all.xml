@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 00:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 02:00:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토스, 당근마켓, 리멤버, 오늘의집, 런드리고는 어떻게 사용자 경험을 ‘재정의(Redefining)’해 시장을 점령했나. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/64579</link>
+            <guid>https://www.bookjournalism.com/books/64579</guid>
+            <pubDate>Thu, 27 Jul 2023 15:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[리디파이닝 REDEFINING]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565484/w/646/99_thumbnail.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[데이터를 볼 때 문제의 뿌리와 가능성을 찾을 수 있다. 데이터를 통해 우리 사회의 불안, 다양성, 환경, 미래를 분석한다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/64680</link>
@@ -24,14 +32,6 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565479/w/646/ex230727.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[토스, 당근마켓, 리멤버, 오늘의집, 런드리고는 어떻게 사용자 경험을 ‘재정의(Redefining)’해 시장을 점령했나. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/64579</link>
-            <guid>https://www.bookjournalism.com/books/64579</guid>
-            <pubDate>Thu, 27 Jul 2023 15:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[리디파이닝 REDEFINING]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/564899/w/646/99_thumbnail.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[트렌드를 살피기 위해서는 먼저 시대의 욕망을 봐야 한다. 소비와 비즈니스의 비밀, 시간과 말이 고이는 구조로 지금의 트렌드를 날카롭게 읽어 낸다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/64569</link>
             <guid>https://www.bookjournalism.com/books/64569</guid>
@@ -40,20 +40,20 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563933/w/646/97_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Wed, 26 Apr 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/565504/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[일본의 젊은 공무원들이 스타트업으로 이직하고 있다. 각자가 그리는 혁신의 모습은 다르다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/64646</link>
             <guid>https://www.bookjournalism.com/books/64646</guid>
             <pubDate>Wed, 26 Jul 2023 17:09:10 GMT</pubDate>
             <content:encoded><![CDATA[스타트업 강국으로 거듭나려는 일본의 실험]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563901/w/646/ex230726_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRIEFING은 월~금 오전에 발행됩니다. 오늘을 이해하고 내일을 전망할 수 있는 뉴스를 골라 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 26 Apr 2023 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/563914/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[상상에는 돈이 들지 않는다. 그러나 상상을 실현시키려면 돈이 필요하다. 수십억 달러의 운명을 쥔 에어 택시가 곧 도심의 상공을 가르며 나타날 것이다. (북저널리즘 ─ 전체)]]></title>
