@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 01:50:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 02:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/566885/w/646/98_thumbnail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘대반격’ 우크라이나, 승산 있나? 《전쟁을 짊어진 사람들》 [8월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/428</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/428</guid>
+            <pubDate>Sun, 06 Aug 2023 02:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230804_282/1691125795535aeTvu_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조명발 잘받는 백열전구, 미국에서 퇴출당한다 [8월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/426</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/426</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/423</guid>
             <pubDate>Sat, 29 Jul 2023 02:23:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230728_101/16905364664699Vstd_JPEG/thumb_contents_thumb_%281%29.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“UFO 진짜 있다” 美 청문회가 중요한 이유 [7월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/416</guid>
             <pubDate>Sat, 15 Jul 2023 02:58:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>47분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘현피’ 뜨는 머스크&저커버그/CGV의 변신, 극장에서 만나요?/역사로 미래를 전망하다 《결정적 순간》 [6월 5주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/415</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/415</guid>
-            <pubDate>Sat, 15 Jul 2023 02:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>61분]]></content:encoded>
         </item>
     </channel>
 </rss>
