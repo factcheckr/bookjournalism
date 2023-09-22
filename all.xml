@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 07:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사라지는 별과 항저우 아시안게임, 북저널리즘의 57번째 시리즈 《중동 라이벌리즘》에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/66384</link>
+            <guid>https://www.bookjournalism.com/audio/66384</guid>
+            <pubDate>Fri, 22 Sep 2023 08:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 9월 23일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/583199/w/646/thumb_apple.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/579795/w/646/eb230913.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[애플과 화웨이가 신제품을 놓고 격돌한다. 그 이면엔 시진핑 정부의 불안이 읽힌다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/66123</link>
-            <guid>https://www.bookjournalism.com/books/66123</guid>
-            <pubDate>Tue, 12 Sep 2023 17:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 일곱 가지 쇼크와 화웨이]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/580161/w/646/ex230912.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[별자리가 없어진다면? 도시의 빛이 죽이는 별빛, 인간이 잃는 문화유산 [9월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/448</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/448</guid>
+            <pubDate>Fri, 22 Sep 2023 08:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20230922_214/1695363383920bsVBJ_JPEG/thumb_apple.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[60일 남은 수능 n수생 최다! 30대에도 여전히 《불안한 서른》 [9월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/444</guid>
             <pubDate>Sun, 10 Sep 2023 02:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230908_188/1694151473518GgFlg_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최악의 개인정보 빌런은 자동차! 현기차도 논란 휩싸여 [9월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/439</guid>
             <pubDate>Thu, 07 Sep 2023 23:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비싸지는 도시에서 읽는 북저널리즘의 100번째 책 《반란의 도시, 베를린》 [8월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/438</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/438</guid>
-            <pubDate>Thu, 07 Sep 2023 23:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>29분]]></content:encoded>
         </item>
     </channel>
 </rss>
