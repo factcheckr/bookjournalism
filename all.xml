@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 08:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.bookjournalism.com/audio/66696</link>
             <guid>https://www.bookjournalism.com/audio/66696</guid>
             <pubDate>Fri, 06 Oct 2023 08:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 10월 6일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586802/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2023년 10월 7일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586917/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
