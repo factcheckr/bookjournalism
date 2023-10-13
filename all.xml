@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 08:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숏폼과 넷플릭스, 위기의 KBS에 관해 이야기합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/66866</link>
+            <guid>https://www.bookjournalism.com/audio/66866</guid>
+            <pubDate>Fri, 13 Oct 2023 08:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 10월 14일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/588744/w/646/thumb_contents_thumb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/587940/w/646/ex231005.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[여성복의 혁신가, 전쟁 스파이, 혹은 저항가. 샤넬이 세계사에 남긴 유산은 패션에 그치지 않는다. 그의 진짜 삶은 어떤 모습이었을까. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/66484</link>
-            <guid>https://www.bookjournalism.com/books/66484</guid>
-            <pubDate>Wed, 04 Oct 2023 08:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[샤넬, 전쟁의 비밀을 품다]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/586193/w/646/eb230927.png" length="0" type="image/png"/>
+            <title><![CDATA[요즘 ‘유튭’ 뭐 봄? 난 숏츠 봄! 넷플 이긴 유튜브, 답은 숏츠에? [10월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/458</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/458</guid>
+            <pubDate>Fri, 13 Oct 2023 08:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231013_14/1697183493153PpfBG_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두산로보틱스 IPO, 로봇은 우리의 일자리를 가져갈까? 새로운 시대의 노동을 준비하는 《노동 4.0》 [10월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/454</guid>
             <pubDate>Sun, 01 Oct 2023 02:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20230926_173/1695708094473AuFgu_JPEG/thumb_apple.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성우는 사라질까? 하룻밤 만에 5000권 오디오북 만든 프로젝트 구텐베르크 [9월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/448</guid>
             <pubDate>Fri, 22 Sep 2023 08:13:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[60일 남은 수능 n수생 최다! 30대에도 여전히 《불안한 서른》 [9월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/447</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/447</guid>
-            <pubDate>Sun, 17 Sep 2023 02:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>16분]]></content:encoded>
         </item>
     </channel>
 </rss>
