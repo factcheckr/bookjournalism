@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 17:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 18:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,80 @@
             <pubDate>Wed, 01 Nov 2023 08:13:11 GMT</pubDate>
             <content:encoded><![CDATA[미국, 중동 평화를 지켜라]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/596466/w/646/f231101.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카엔 돈을 쏟아 부어도 안된다? 세계를 구하는 진짜 해법 [11월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/465</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/465</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231103_100/16989898565498jI7T_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일론 머스크 잠깐! 실패로 돌아간 완전 자율주행 택시 실험 [11월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/464</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/464</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231103_184/1698989546904DPcuX_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 신임 하원의장 마이크 존슨 ... 트럼프의 영향력 끝나지 않는 미국 [10월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/463</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/463</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231027_17/1698390397565Vqo0f_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30억 원 손실, 청도 소싸움도 취소시킨 럼피스킨병 [10월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/462</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/462</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231027_213/1698389916643GmMQj_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주진형, 백종원, 송은이까지... 유명인 사칭하는 ‘가짜 광고’ 메타는 왜 놔둘까? [10월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/461</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/461</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2009년생부터 담배 금지하는 영국! 마음 급한 담배 회사, 대마초 잡는다? [10월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/460</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/460</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[수신료 분리 징수부터 사장 해임까지... 위기의 공영 방송과 《KBS 죽이기》[10월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/459</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/459</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요즘 ‘유튭’ 뭐 봄? 난 숏츠 봄! 넷플 이긴 유튜브, 답은 숏츠에? [10월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/458</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/458</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[두산로보틱스 IPO, 로봇은 우리의 일자리를 가져갈까? 새로운 시대의 노동을 준비하는 《노동 4.0》 [10월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/457</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/457</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국감장 가는 탕후루 ... 위고비는 비만 문제 해결할 수 있을까? [10월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/456</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/456</guid>
+            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
