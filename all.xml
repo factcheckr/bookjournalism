@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 01:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 02:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/599122/w/646/ft_231115.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[밥상머리 기후대책이 있다고? 이제 트렌드는 기후 식단! [11월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/472</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/472</guid>
+            <pubDate>Sun, 26 Nov 2023 02:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231124_270/1700808737345zb915_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인류를 위협하는 조용한 전염병! WHO가 작심하고 경고했다 [11월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/471</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/471</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/468</guid>
             <pubDate>Fri, 17 Nov 2023 08:13:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231117_77/1700206975175rWtvy_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김포 서울 편입에 쓰레기 큰 그림 있다? 플라스틱 못 잃는 한국 [11월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/463</guid>
             <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[30억 원 손실, 청도 소싸움도 취소시킨 럼피스킨병 [10월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/462</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/462</guid>
-            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>26분]]></content:encoded>
         </item>
     </channel>
 </rss>
