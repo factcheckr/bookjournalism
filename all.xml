@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 07:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 08:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2024 트렌드와 김포시의 기후동행카드 협약, 주방 안의 문화전쟁에 대해 다룹니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/68315</link>
+            <guid>https://www.bookjournalism.com/audio/68315</guid>
+            <pubDate>Fri, 08 Dec 2023 08:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 12월 9일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/604431/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해에서 오징어가 잡히지 않는다. 그 많던 오징어는 어디로 갔을까? (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/68295</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602768/w/646/f231129thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[탈진실의 시대다. 사전 속에는 진짜 진실이 있을까. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/68139</link>
-            <guid>https://www.bookjournalism.com/books/68139</guid>
-            <pubDate>Tue, 28 Nov 2023 15:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[사전에서 진실을 찾는 사람들]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/602634/w/646/ex_231129_th.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[점심엔 마라탕후루, 자기 전엔 푸바오 힐링! 광고 회사가 분석한 2024 트렌드는? [12월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/475</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/475</guid>
+            <pubDate>Fri, 08 Dec 2023 08:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>31분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20231208_13/17020180411312RjxX_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아보카도 ‘이것’ 알면 못 먹는다? 250페이지짜리 보고서 들춰보니 [12월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/471</guid>
             <pubDate>Sat, 25 Nov 2023 02:19:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231124_185/1700808536945Xl9P9_JPEG/thumb_contents_thumb.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일론 머스크 스타십 발사 또 실패? 화성 정복은 가능할까?[11월 4주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/466</guid>
             <pubDate>Fri, 10 Nov 2023 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아프리카엔 돈을 쏟아 부어도 안된다? 세계를 구하는 진짜 해법 [11월 1주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/465</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/465</guid>
-            <pubDate>Thu, 09 Nov 2023 18:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
     </channel>
 </rss>
