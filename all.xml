@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 23:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 00:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 14 Dec 2023 15:11:16 GMT</pubDate>
             <content:encoded><![CDATA[현대차의 웨어러블 로봇 실험]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605990/w/646/e231215_thm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 12 Dec 2023 01:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/605946/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[국민의힘 혁신위원회가 성과 없이 조기 해산했다. 한국 정당의 혁신 기구는 왜 실패할까? (북저널리즘 ─ 전체)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 05 Dec 2023 15:11:42 GMT</pubDate>
             <content:encoded><![CDATA[페미니즘은 집게손가락 논란을 해결할 수 없다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603632/w/646/231206_exp_th.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[중국발 2차 요소수 대란이 우려된다. 공급망도, 대기오염도 괜찮은지 점검할 때다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/68229</link>
+            <guid>https://www.bookjournalism.com/books/68229</guid>
+            <pubDate>Fri, 15 Dec 2023 00:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[요소수가 질문한다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603506/w/646/ex231205thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가스렌지 쓰면 안된다고? 미국에서 벌어진 친환경 좌우 격돌! [12월 2주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
