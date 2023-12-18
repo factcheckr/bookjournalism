@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 23:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 00:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 15 Dec 2023 08:13:53 GMT</pubDate>
             <content:encoded><![CDATA[2023년 12월 16일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606320/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 15 Dec 2023 01:54:52 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/606156/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[로봇을 입고 근무하는 시대가 온다. 유토피아일까, 디스토피아일까.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 06 Dec 2023 15:11:20 GMT</pubDate>
             <content:encoded><![CDATA[은행 달력의 마지막 장]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603925/w/646/IMG_1624.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[인류세가 온다. 인류세의 개념과 등장 배경부터 인류세 논의의 의의와 가능성까지 살펴본다.]]></title>
+            <link>https://www.bookjournalism.com/books/68261</link>
+            <guid>https://www.bookjournalism.com/books/68261</guid>
+            <pubDate>Mon, 18 Dec 2023 00:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[인류세와 환경 인문사회학의 혁신]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/603875/w/646/f231206thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
