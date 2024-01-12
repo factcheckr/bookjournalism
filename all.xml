@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 07:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 08:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잊힐 권리와 팬톤 컬러, 기후 보도를 다룹니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/68865</link>
+            <guid>https://www.bookjournalism.com/audio/68865</guid>
+            <pubDate>Fri, 12 Jan 2024 08:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 1월 13일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611278/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608992/w/646/240103_feature_thumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미키마우스의 저작권이 만료됐다. 새로운 기회가 열렸다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/68681</link>
-            <guid>https://www.bookjournalism.com/books/68681</guid>
-            <pubDate>Tue, 02 Jan 2024 15:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[무엇이든 될 수 있는 미키마우스]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608867/w/646/240103_exp_thumb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[내 흑역사 제발 지워줘! ‘잊힐 권리’ 보장하는 ‘지우개’가 있다? (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/490</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/490</guid>
+            <pubDate>Fri, 12 Jan 2024 08:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240112_99/1705034172445EqOXa_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이거 공개되면 다 같이 죽는거야! 제프리 엡스타인 문건 공개 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/486</guid>
             <pubDate>Sun, 31 Dec 2023 02:24:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20231229_199/1703835016942uDIAc_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 누가누가 잘했나~ CEO BEST 5로 전망하는 2024년 [12월 5주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/481</guid>
             <pubDate>Fri, 22 Dec 2023 08:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기후 신춘문예가 있다? 문학과 미디어가 지구를 살리는 방법! [12월 3주] (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/478</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/478</guid>
-            <pubDate>Sun, 17 Dec 2023 02:26:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
