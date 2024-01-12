@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 00:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 01:55:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Fri, 12 Jan 2024 01:55:04 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/611183/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[비극이다. 이 비극이 애도로만 끝난다면 우리는 무거운 기회를 놓쳐버린다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/68853</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Jan 2024 15:10:46 GMT</pubDate>
             <content:encoded><![CDATA[무엇이든 될 수 있는 미키마우스]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608867/w/646/240103_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2024년, 청년 세대는 행복해질까? 데이터는 아니라고 말한다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/68675</link>
-            <guid>https://www.bookjournalism.com/books/68675</guid>
-            <pubDate>Fri, 12 Jan 2024 00:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[영끌 담론에 갇힌 청년 세대]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/608801/w/646/e240102_thm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[이거 공개되면 다 같이 죽는거야! 제프리 엡스타인 문건 공개 (오디오클립 ─ 북저널리즘 라디오)]]></title>
