@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 23:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 00:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 30 Jan 2024 15:10:21 GMT</pubDate>
             <content:encoded><![CDATA[여론 조사, 공천과 공해 사이]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614952/w/646/240131_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Fri, 26 Jan 2024 01:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/614911/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유럽의 농민들이 트랙터를 몰고 도시로 향한다.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 18 Jan 2024 23:11:42 GMT</pubDate>
             <content:encoded><![CDATA[홍해의 총성]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612665/w/646/e240119_thm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[프랑스에서 34세 총리가 등장했다. 총리직을 맡기엔 인생 경험이 부족하다는 지적이 나온다. 역사학자 가이 월터스는 결코 그렇지 않다고 말한다.]]></title>
+            <link>https://www.bookjournalism.com/books/68974</link>
+            <guid>https://www.bookjournalism.com/books/68974</guid>
+            <pubDate>Wed, 31 Jan 2024 00:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[34세의 프랑스 총리, 가브리엘 아탈]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/612606/w/646/f240118thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
