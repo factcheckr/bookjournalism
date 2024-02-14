@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 23:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 00:45:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 13 Feb 2024 15:09:18 GMT</pubDate>
             <content:encoded><![CDATA[AI가 만드는 완벽한 밸런타인데이]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/616401/w/646/240214_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Wed, 07 Feb 2024 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/616349/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[스무 살, 페이스북은 더 이상 사회적이지 않다.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 01 Feb 2024 15:10:20 GMT</pubDate>
             <content:encoded><![CDATA[대이직 시대]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615331/w/646/105_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴럴링크가 사람의 뇌에 칩을 심었다. 뇌와 컴퓨터가 연결된다.]]></title>
+            <link>https://www.bookjournalism.com/books/69257</link>
+            <guid>https://www.bookjournalism.com/books/69257</guid>
+            <pubDate>Wed, 14 Feb 2024 00:44:58 GMT</pubDate>
+            <content:encoded><![CDATA[뇌에 칩을 심었다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/615269/w/646/ex240201thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
