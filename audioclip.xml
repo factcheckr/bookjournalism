@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 01:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 02:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독일에서 난데 없이 뻐끔뻐끔 쇼?! 돈 때문에 놓지 못하는 이것은...]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/525</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/525</guid>
+            <pubDate>Sat, 06 Apr 2024 02:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240405_27/1712290951464tOQsM_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나무도 고령화가 문제? 나이 든 나무, 정말 베어내야 할까?]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/524</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/519</guid>
             <pubDate>Fri, 29 Mar 2024 07:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240322_218/1711096194764Td8TF_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인은 왜 반려돌을 키우고 감옥 체험을 하나]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/516</guid>
             <pubDate>Fri, 15 Mar 2024 08:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[65살 바비의 영리한 변천사! 8등신 체형이 전부는 아니다?!]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/515</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/515</guid>
-            <pubDate>Sat, 09 Mar 2024 02:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
