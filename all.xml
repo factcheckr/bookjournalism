@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 01:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 02:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/622758/w/646/e240416_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈수사반장 1958〉에 자막이 깔리는 이유는? (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/529</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/529</guid>
+            <pubDate>Sat, 27 Apr 2024 02:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240426_219/1714107710042nlaCy_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[응답하라, 스물 두 살 네이버 지식인! (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/528</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/528</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/525</guid>
             <pubDate>Sat, 06 Apr 2024 02:16:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240405_27/1712290951464tOQsM_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나무도 고령화가 문제? 나이 든 나무, 정말 베어내야 할까? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/521</guid>
             <pubDate>Sun, 24 Mar 2024 02:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 IPO 풍년! 래딧? 쉬인? 스킴스? 브리태니커? 서학개미 동원령! (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/520</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/520</guid>
-            <pubDate>Sat, 23 Mar 2024 02:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
     </channel>
 </rss>
