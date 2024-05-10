@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 07:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 08:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[차등 투표제와 말레이시아의 오랑우탄 외교에 대해 다룹니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/70390</link>
+            <guid>https://www.bookjournalism.com/audio/70390</guid>
+            <pubDate>Fri, 10 May 2024 08:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 11일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624852/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/61753</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623700/w/646/ex240429thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네이버 지식인 개편과 MBC의 자막 방송에 대해 다룹니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/audio/70258</link>
-            <guid>https://www.bookjournalism.com/audio/70258</guid>
-            <pubDate>Fri, 26 Apr 2024 08:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[2024년 4월 27일, weekend]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623655/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[20대는 투표권 4장 주자고? 은퇴하는 연구원의 작심 발언 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/533</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/533</guid>
+            <pubDate>Fri, 10 May 2024 08:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240510_34/1715324728751czrrT_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국 사람들, 틱톡 없이 살 수 있을까? 미운털 박힌 진짜 이유는? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/529</guid>
             <pubDate>Sat, 27 Apr 2024 02:20:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240426_219/1714107710042nlaCy_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[응답하라, 스물 두 살 네이버 지식인! (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/524</guid>
             <pubDate>Fri, 05 Apr 2024 08:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테슬라 잡고 진격! 무섭게 돌진하는 비야디의 모든 것 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/523</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/523</guid>
-            <pubDate>Sat, 30 Mar 2024 02:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
         </item>
     </channel>
 </rss>
