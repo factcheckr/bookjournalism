@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 23:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 00:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 09 May 2024 15:12:11 GMT</pubDate>
             <content:encoded><![CDATA[바나나, 두리안, 커피]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624797/w/646/e240510_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Thu, 02 May 2024 01:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624774/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[미국 컬럼비아대의 팔레스타인 지지 시위가 미국 대선을 흔들고 있다.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 26 Apr 2024 08:13:29 GMT</pubDate>
             <content:encoded><![CDATA[2024년 4월 27일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623655/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI 환각은 우리 눈앞에서 벌어지고 있다. 기술이 사람을 숨긴다.]]></title>
+            <link>https://www.bookjournalism.com/books/70248</link>
+            <guid>https://www.bookjournalism.com/books/70248</guid>
+            <pubDate>Fri, 10 May 2024 00:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[사람을 숨긴 마트]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/623535/w/646/e240426_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
