@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://audioclip.naver.com/channels/2939</id>
-    <title>오디오클립 ─ 북저널리즘 라디오</title>
-    <updated>2024-05-16T16:13:07.240Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://audioclip.naver.com/channels/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>오디오클립 ─ 북저널리즘 라디오</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 16 May 2024 17:11:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오랑우탄을 선물로 주신다고요? 팜유에 얽힌 불편한 진실]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/534</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/534</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240510_47/1715324854812xBRyY_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대는 투표권 4장 주자고? 은퇴하는 연구원의 작심 발언]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/533</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/533</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240510_34/1715324728751czrrT_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 사람들, 틱톡 없이 살 수 있을까? 미운털 박힌 진짜 이유는?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/532</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/532</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240503_251/1714714544852ILk5c_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기북부특별자치도, 이름이?? 정말 잘 해야 할 이유!]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/531</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/531</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240503_110/1714714417290Gr6T1_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[숲속의 생활] 공공기관 연봉 1위는 어디? 대체 뭐하는 곳이길래...]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/530</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/530</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[〈수사반장 1958〉에 자막이 깔리는 이유는?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/529</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/529</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[응답하라, 스물 두 살 네이버 지식인!]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/528</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/528</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[느슨한 연결의 시대, 카카오톡은 안 쓴다?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/526</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/526</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AI시대, 진짜 돈버는 AI를 만드는 회사가 있다?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/527</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/527</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[독일에서 난데 없이 뻐끔뻐끔 쇼?! 돈 때문에 놓지 못하는 이것은...]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/525</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/525</guid>
+            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+        </item>
+    </channel>
+</rss>
