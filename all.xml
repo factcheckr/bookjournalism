@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 01:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 02:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/624962/w/646/e240514_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울대 N번방 사건, 더 큰 소리로 이야기해야 할 이유 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/539</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/539</guid>
+            <pubDate>Sat, 25 May 2024 02:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240524_240/1716536926078OCd0Y_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[숲속의 생활] 민족 정기를 빨아먹는다던 이 나무! 실은 꿀벌의 친구? (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/538</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/538</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/535</guid>
             <pubDate>Fri, 17 May 2024 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240517_144/17159342490751lUj9_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오랑우탄을 선물로 주신다고요? 팜유에 얽힌 불편한 진실 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/530</guid>
             <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>15분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[〈수사반장 1958〉에 자막이 깔리는 이유는? (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/529</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/529</guid>
-            <pubDate>Thu, 16 May 2024 17:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>24분]]></content:encoded>
         </item>
     </channel>
 </rss>
