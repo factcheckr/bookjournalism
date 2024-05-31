@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 23:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 00:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 30 May 2024 22:11:55 GMT</pubDate>
             <content:encoded><![CDATA[그 코미디가 웃기지 않았던 이유]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626493/w/646/e240531_thm.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Thu, 30 May 2024 01:56:09 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626474/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[남아공 ANC의 30년 단독 집권이 끝나간다.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 21 May 2024 08:14:30 GMT</pubDate>
             <content:encoded><![CDATA[굶주림의 기억은 유전된다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625663/w/646/f240521_thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젤렌스키가 삼중고를 겪고 있다. 외부 공격만큼 내부 분열도 위험하다.]]></title>
+            <link>https://www.bookjournalism.com/books/70468</link>
+            <guid>https://www.bookjournalism.com/books/70468</guid>
+            <pubDate>Fri, 31 May 2024 00:50:45 GMT</pubDate>
+            <content:encoded><![CDATA[젤렌스키의 임기가 끝났다]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625654/w/646/ex240521thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
