@@ -4,9 +4,17 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 00:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 01:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Mon, 03 Jun 2024 01:57:31 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627041/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[지구당 부활보다 더 시급한 것이 있다. 지역 정당이다.]]></title>
             <link>https://www.bookjournalism.com/books/70648</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 May 2024 15:12:27 GMT</pubDate>
             <content:encoded><![CDATA[불닭볶음면, 문화가 되다]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625816/w/646/240523_exp_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영국이 난민을 르완다로 보낸다.]]></title>
-            <link>https://www.bookjournalism.com/books/70483</link>
-            <guid>https://www.bookjournalism.com/books/70483</guid>
-            <pubDate>Mon, 03 Jun 2024 00:51:46 GMT</pubDate>
-            <content:encoded><![CDATA[망명의 외주화]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625685/w/646/e240522_thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
