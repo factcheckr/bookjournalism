@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 23:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 03 Jun 2024 15:12:14 GMT</pubDate>
             <content:encoded><![CDATA[그 축제의 의미]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627161/w/646/e240604_thm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Mon, 03 Jun 2024 01:57:31 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627041/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[지구당 부활보다 더 시급한 것이 있다. 지역 정당이다. (북저널리즘 ─ 전체)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 24 May 2024 10:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 25일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626043/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령의 공백보다 더 위험한 건 차기 후계자의 공백이다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/70508</link>
+            <guid>https://www.bookjournalism.com/books/70508</guid>
+            <pubDate>Tue, 04 Jun 2024 00:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[이란의 다음 최고 지도자]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625935/w/646/ex240524thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중산층이 복권에 집착하는 이유는? 욕망과 희망의 계급도 (오디오클립 ─ 북저널리즘 라디오)]]></title>
