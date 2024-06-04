@@ -4,9 +4,17 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 00:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 01:56:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다.]]></title>
+            <link>https://www.bookjournalism.com/books/61753</link>
+            <guid>https://www.bookjournalism.com/books/61753</guid>
+            <pubDate>Tue, 04 Jun 2024 01:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627386/w/646/earth.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어느새 우리는 쉬이 잊었지만 지금 지구는 두 건의 커다란 전쟁을 치르는 중이다.]]></title>
             <link>https://www.bookjournalism.com/books/70687</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 May 2024 10:12:26 GMT</pubDate>
             <content:encoded><![CDATA[2024년 5월 25일, weekend]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626043/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령의 공백보다 더 위험한 건 차기 후계자의 공백이다.]]></title>
-            <link>https://www.bookjournalism.com/books/70508</link>
-            <guid>https://www.bookjournalism.com/books/70508</guid>
-            <pubDate>Tue, 04 Jun 2024 00:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[이란의 다음 최고 지도자]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/625935/w/646/ex240524thm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
