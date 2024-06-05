@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 00:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 04 Jun 2024 15:12:01 GMT</pubDate>
             <content:encoded><![CDATA[우리 모두의 드림 시나리오]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627397/w/646/240605_exp_thumb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘을 이해하고 내일을 전망할 수 있는 뉴스를 엄선해 브리핑합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/61753</link>
-            <guid>https://www.bookjournalism.com/books/61753</guid>
-            <pubDate>Tue, 04 Jun 2024 01:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[BOOK JOURNALISM]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/627386/w/646/earth.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어느새 우리는 쉬이 잊었지만 지금 지구는 두 건의 커다란 전쟁을 치르는 중이다. (북저널리즘 ─ 전체)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 26 May 2024 15:11:39 GMT</pubDate>
             <content:encoded><![CDATA[그녀(Her)의 목소리]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626052/w/646/ex240527thm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아까시나무와 딥페이크 성범죄, 네슬레의 비만 치료제 대응을 다룹니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/70516</link>
+            <guid>https://www.bookjournalism.com/audio/70516</guid>
+            <pubDate>Wed, 05 Jun 2024 00:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 5월 25일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/626043/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중산층이 복권에 집착하는 이유는? 욕망과 희망의 계급도 (오디오클립 ─ 북저널리즘 라디오)]]></title>
