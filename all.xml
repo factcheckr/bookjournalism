@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jun 2024 00:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 02:04:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/628636/w/646/e240618_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[WEEKEND ; 광화문 광장에 110m 태극기 게양대? 차라리 그 곳에... (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/554</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/554</guid>
+            <pubDate>Sun, 30 Jun 2024 02:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240628_169/1719559051032Rtm9F_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[숲속의 생활] 요르단을 달리는 불법 물장수들의 실체 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/553</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/553</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/550</guid>
             <pubDate>Sat, 22 Jun 2024 02:26:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240621_44/1718949105347OkhMJ_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[숲속의 생활] 공화당은 왜 전기차를 증오하나 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/545</guid>
             <pubDate>Sun, 09 Jun 2024 02:03:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>27분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[숲속의 생활] 에어컨이 지배하는 세상, 우리는 조종당했다! (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/544</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/544</guid>
-            <pubDate>Sat, 08 Jun 2024 02:27:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
