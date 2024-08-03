@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Aug 2024 02:00:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2024 02:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[weekend; 커피 인플레이션 시대, 스타벅스 커피 값에 숨겨진 경제 시그널은?]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/562</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/562</guid>
+            <pubDate>Sat, 03 Aug 2024 02:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240801_36/1722501827029oHRl5_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[weekend;  미국의 싱크탱크, 정체가 뭐길래 대선을 흔들어? 〈프로젝트 2025〉 내용 보니...]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/561</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/558</guid>
             <pubDate>Fri, 02 Aug 2024 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240712_264/1720760261333GbSEf_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 아마존, 1994년 창업 당시 경력직 입사 스펙은?]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/553</guid>
             <pubDate>Fri, 02 Aug 2024 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WEEKEND ; 이것만 입으면 당신도 손흥민! 외골격 로봇이 온다]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/552</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/552</guid>
-            <pubDate>Fri, 02 Aug 2024 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>19분]]></content:encoded>
         </item>
     </channel>
 </rss>
