@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 02:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 02:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/632791/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[weekend; 파리 올림픽 시청률로 상한가 친 미국 NBC, 비결이 따로 있다! (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/564</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/564</guid>
+            <pubDate>Sat, 17 Aug 2024 02:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240814_243/17236248992683EqJK_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[weekend;  우리 ‘CJ 올리브영역’에서 만나! 2호선 성수역 이름 값은 얼마? (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/563</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/563</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/560</guid>
             <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240719_220/1721376942710FEmbQ_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 아마존 밀림의 주인은 누구인가요? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -167,13 +174,6 @@
             <title><![CDATA[weekend; 도서전이 왜 흥하지? 출판을 꿈꾸는 당신이 알아야 할 모든 것! (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/555</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/555</guid>
-            <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WEEKEND ; 광화문 광장에 110m 태극기 게양대? 차라리 그 곳에... (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/554</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/554</guid>
             <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
