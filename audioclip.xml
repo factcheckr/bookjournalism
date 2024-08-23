@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 07:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[weekend;  일본 열도에 ‘동해 바다’ 교가가 울려퍼진 까닭]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/565</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/565</guid>
+            <pubDate>Fri, 23 Aug 2024 08:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240823_123/1724398752320nUPtL_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[weekend; 파리 올림픽 시청률로 상한가 친 미국 NBC, 비결이 따로 있다!]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/564</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/561</guid>
             <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240801_263/1722501329797bEtVz_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 트럼프가 만들 4년, 90분짜리 연설에 다 담겼다!]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/556</guid>
             <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>28분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weekend; 도서전이 왜 흥하지? 출판을 꿈꾸는 당신이 알아야 할 모든 것!]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/555</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/555</guid>
-            <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>30분]]></content:encoded>
         </item>
     </channel>
 </rss>
