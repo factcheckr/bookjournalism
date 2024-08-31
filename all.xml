@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Aug 2024 00:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 02:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633202/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[weekend; 딥페이크, 막을 수도 처벌할 수도 없는 이유 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/568</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/568</guid>
+            <pubDate>Sat, 31 Aug 2024 02:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240830_236/17250003067248y1Ft_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[weekend;  오픈AI 회사 가치가 1000억 달러? 스타트업 투자 ABC (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/567</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/567</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/564</guid>
             <pubDate>Sat, 17 Aug 2024 02:35:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240814_243/17236248992683EqJK_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend;  우리 ‘CJ 올리브영역’에서 만나! 2호선 성수역 이름 값은 얼마? (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -167,13 +174,6 @@
             <title><![CDATA[weekend; 아마존 밀림의 주인은 누구인가요? (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/559</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/559</guid>
-            <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weekend; 이제 바르셀로나에선 에어비앤비 금지! (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/558</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/558</guid>
             <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>14분]]></content:encoded>
         </item>
