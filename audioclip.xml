@@ -4,9 +4,17 @@
         <title>오디오클립 ─ 북저널리즘 라디오</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 00:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 02:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[weekend; 이젠 드라마도 숏폼이라고? AI가 바꾸는 콘텐츠 생태계]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/572</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/572</guid>
+            <pubDate>Sat, 21 Sep 2024 02:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240920_99/1726827016410UNtj2_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[weekend; 미국 대선에 등장한 ‘설득의 기술’, 보수까지 사로잡은 해리스의 화법은?]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/571</link>
@@ -37,7 +45,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/568</guid>
             <pubDate>Sat, 31 Aug 2024 02:07:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>17분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240830_236/17250003067248y1Ft_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend;  오픈AI 회사 가치가 1000억 달러? 스타트업 투자 ABC]]></title>
@@ -73,13 +80,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/563</guid>
             <pubDate>Fri, 16 Aug 2024 08:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weekend; 커피 인플레이션 시대, 스타벅스 커피 값에 숨겨진 경제 시그널은?]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/562</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/562</guid>
-            <pubDate>Thu, 08 Aug 2024 22:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
         </item>
     </channel>
 </rss>
