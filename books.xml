@@ -4,7 +4,7 @@
         <title>북저널리즘 ─ 전체</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 23:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 01:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,8 +12,8 @@
             <link>https://www.bookjournalism.com/books/72406</link>
             <guid>https://www.bookjournalism.com/books/72406</guid>
             <pubDate>Mon, 23 Sep 2024 23:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[올 겨울은 영하 18도]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634151/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[올겨울은 영하 18도]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634161/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘과 헤즈볼라의 전면전이 임박했다.]]></title>
