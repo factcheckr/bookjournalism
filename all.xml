@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 04:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 05:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/633959/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[weekend; 미슐랭 스타를 받으면 식당 문 닫을 확률이 올라간다고? (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/573</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/573</guid>
+            <pubDate>Fri, 27 Sep 2024 05:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>21분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20240927_298/1727410883214gYRmt_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[weekend; 이젠 드라마도 숏폼이라고? AI가 바꾸는 콘텐츠 생태계 (오디오클립 ─ 북저널리즘 라디오)]]></title>
             <link>https://audioclip.naver.com/channels/2939/clips/572</link>
             <guid>https://audioclip.naver.com/channels/2939/clips/572</guid>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/569</guid>
             <pubDate>Fri, 06 Sep 2024 06:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>11분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240906_71/1725602265504GJTwg_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 딥페이크, 막을 수도 처벌할 수도 없는 이유 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/564</guid>
             <pubDate>Sat, 17 Aug 2024 02:35:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>20분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weekend;  우리 ‘CJ 올리브영역’에서 만나! 2호선 성수역 이름 값은 얼마? (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/563</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/563</guid>
-            <pubDate>Fri, 16 Aug 2024 08:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>22분]]></content:encoded>
         </item>
     </channel>
 </rss>
