@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 04:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 05:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생성형 AI로 뚝딱 만드는 팟캐스트, 스위스와 이탈리아가 국경선을 조정하는 사연을 다룹니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/audio/72513</link>
+            <guid>https://www.bookjournalism.com/audio/72513</guid>
+            <pubDate>Fri, 04 Oct 2024 05:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 10월 5일, weekend]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634534/w/646/channel_thumb-100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스라엘과 이란이 서로 보복과 재보복을 공언하며 맞서고 있다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/72505</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634145/w/646/greatgame_thm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이슬란드에서 쓰레기통을 뒤지던 북극곰이 사살됐다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/72376</link>
-            <guid>https://www.bookjournalism.com/books/72376</guid>
-            <pubDate>Sun, 22 Sep 2024 23:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[북극곰의 죽음]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/634129/w/646/explained_thm.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북저널리즘 weekend #78. 농담은 이렇게 한다, 휴먼! AI가 만든 팟캐스트 공개 (오디오클립 ─ 북저널리즘 라디오)]]></title>
+            <link>https://audioclip.naver.com/channels/2939/clips/575</link>
+            <guid>https://audioclip.naver.com/channels/2939/clips/575</guid>
+            <pubDate>Fri, 04 Oct 2024 05:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="blind">재생시간</span>44분]]></content:encoded>
+            <enclosure url="https://audio-phinf.pstatic.net/20241004_176/1728011890904hiVGz_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 아름답지 않았던 2024 미스코리아 선발대회 (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -133,7 +141,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/571</guid>
             <pubDate>Fri, 20 Sep 2024 10:14:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>18분]]></content:encoded>
-            <enclosure url="https://audio-phinf.pstatic.net/20240920_44/1726826493954Exu93_JPEG/channel_thumb-100.jpg?type=f150_150" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[weekend; 오아시스 재결성! 근데 공연 티켓이 천만 원?! (오디오클립 ─ 북저널리즘 라디오)]]></title>
@@ -169,13 +176,6 @@
             <guid>https://audioclip.naver.com/channels/2939/clips/566</guid>
             <pubDate>Sat, 24 Aug 2024 02:03:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="blind">재생시간</span>25분]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[weekend;  일본 열도에 ‘동해 바다’ 교가가 울려퍼진 까닭 (오디오클립 ─ 북저널리즘 라디오)]]></title>
-            <link>https://audioclip.naver.com/channels/2939/clips/565</link>
-            <guid>https://audioclip.naver.com/channels/2939/clips/565</guid>
-            <pubDate>Fri, 23 Aug 2024 08:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="blind">재생시간</span>23분]]></content:encoded>
         </item>
     </channel>
 </rss>
