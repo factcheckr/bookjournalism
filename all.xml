@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 08:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 09:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본은 ‘가이진’과 이웃이 될 준비를 하지 않았습니다. 혐오가 자라나기 딱 좋은 환경입니다. (북저널리즘 ─ 전체)]]></title>
+            <link>https://www.bookjournalism.com/books/74658</link>
+            <guid>https://www.bookjournalism.com/books/74658</guid>
+            <pubDate>Wed, 19 Feb 2025 09:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[와라비의 쿠르드인]]></content:encoded>
+            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/644354/w/646/r240219.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[판단의 근거는 과학이 아니라 ‘과학적 사고’여야 합니다. (북저널리즘 ─ 전체)]]></title>
             <link>https://www.bookjournalism.com/books/74647</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Jan 2025 07:12:37 GMT</pubDate>
             <content:encoded><![CDATA[AI의 아하! 모멘트]]></content:encoded>
             <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643135/w/646/r2401302.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프가 이번 대선에서 틱톡 덕을 톡톡히 봤으니, 틱톡에 유리하게 움직일 것이라는 전망은 순진한 정도가 아니라 무지합니다. (북저널리즘 ─ 전체)]]></title>
-            <link>https://www.bookjournalism.com/books/74529</link>
-            <guid>https://www.bookjournalism.com/books/74529</guid>
-            <pubDate>Thu, 23 Jan 2025 07:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[틱톡을 살려 준 이유]]></content:encoded>
-            <enclosure url="https://d16q17a0zuuij1.cloudfront.net/books/download/643124/w/646/r250123.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[weekend; 2024년을 만든 인물, 딱 열 명 선정해 이야기합니다. (4) (오디오클립 ─ 북저널리즘 라디오)]]></title>
